@@ -5,7 +5,6 @@ class time_sheet:
         self.name = name
         self.time = [0] * 7 # initialize to be zero
         self.total_balance = total_balance
-
     
     def summary_week(self):
         time = 0
@@ -23,3 +22,11 @@ class time_sheet:
 
         self.total_balance += balance
 
+def fetch_user(self):
+    username = input("Input Username: ")
+
+
+
+username = input("Input Username: ")
+
+user = fetch_user(username)
