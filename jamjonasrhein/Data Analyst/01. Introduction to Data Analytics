@@ -1,0 +1,39 @@
+Data Analyst Roadmap
+
+Data Analyst
+-  a professional primarily tasked with collecting, processing, and performing statistical analysis on large datasets
+Data Analytics
+-  extracting meaningful insights from raw data to drive decision-making processes
+-  understand and interpret complex digital data, such as the usage statistics of a website, the sales figures of a company, or client engagement over social media, etc.
+
+Types of Data Analytics
+1.  Descriptive Analytics
+-  provides insight into the past
+-  analyzes raw data from the past to draw inferences and identify patterns and trends
+2.  Diagnostic Analytics
+-  studying past performance to understand why something happened
+-  through techniques such as drill-down, data discovery, correlations, and cause-effect analysis, data analysts utilizing diagnostic analytics can look beyond general trends and identify the root cause of changes observed in the data
+-  enables businesses to address operational and strategic issues effectively
+3.  Predictive Analytics
+-  extracting information from existing data sets in order to determine patterns and forecast future outcomes and trends
+-  statistical algorithms, machine learning techniques, and artificial intelligence to the data to anticipate future results
+-  gives companies a significant competitive edge by enabling risk management, opportunity identification, and strategic decision-making
+4.  Prescriptive Analytics
+-  to recommend various actions using predictions on the basis of known parameters to help decision makers understand likely outcomes
+-  blend of techniques and tools such as algorithms, machine learning, computational modelling procedures, and decision-tree structures to enable automated decision making
+
+Key Concepts for Data
+1.  Data Collection
+-  gathering and measuring information on targeted variables in an established systematic fashion that enables a data analyst to answer relevant questions and evaluate outcomes
+2.  Data Cleanup
+-  inspecting, cleaning, transforming, and modeling data to discover useful information, inform conclusions, and support decision making
+3.  Data Exploration
+-  discerning patterns, identifying anomalies, examining underlying structures, and testing hypothesis, which often gets accomplished via descriptive statistics, visual methods, or sophisticated algorithms
+4.  Data Visualization
+-  transforming complex raw data into a graphical format that allows for an easier understanding of large data sets, trends, outliers, and important patterns
+5.  Statistical Analysis
+-  collecting, examining, interpreting, and present data, enabling data analysts to uncover patterns, trends and relationships, deduce insights and support decision-making in various fields
+-  deliver predictive models, trend analysis, and valuable business insights, making it indispensable in the world of data analytics
+6.  Machine Learning
+-  ability to automatically learn, improve from experience and make decisions without being explicitly programmed
+-  
