@@ -1,0 +1,72 @@
+{
+    "NA-Black": {
+        "name": "Ayrton Bautista",
+        "time": [
+            0,
+            0,
+            0,
+            0,
+            18.826497793197632,
+            0,
+            0
+        ],
+        "week_balance": 120,
+        "prev_balance": 121
+    },
+    "janpatrickgrnmo": {
+        "name": "JP Geronimo",
+        "time": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "week_balance": 0,
+        "prev_balance": 0
+    },
+    "jamjonasrhein": {
+        "name": "Jonas Esguerra",
+        "time": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "week_balance": 0,
+        "prev_balance": 0
+    },
+    "RednaelDev": {
+        "name": "Paul Borrega",
+        "time": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "week_balance": 0,
+        "prev_balance": 0
+    },
+    "RanzBrendan": {
+        "name": "Ranz Gabor",
+        "time": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "week_balance": 0,
+        "prev_balance": 0
+    }
+}
