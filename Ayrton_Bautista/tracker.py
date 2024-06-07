@@ -54,7 +54,7 @@ class time_sheet:
         self.week_balance = balance
 
 def menu (user):
-    print("What do you want to do?\n(1) Start Learning Session\n(2) Balance Check\n(3) Summary\n(E) Edit Specific Field\n(Q) Quit")
+    print("What do you want to do?\n(1) Start Learning Session\n(2) Balance Check\n(3) Summary\n(Q) Quit")
     user_choice = input("\nUser Choice: ")
     
     # Quiting the menu
@@ -104,22 +104,41 @@ def menu (user):
                 break   
             else:
                 print("Input a valid response.\n")
-
+    
+    # Start to compute for the total balance to be paid by the user
     elif user_choice == "2":
         os.system(cls)
         user.summary_week()
         
         print(f"This Week's Balance is: Php {user.week_balance}")
         print(f"Previous Week's Balance is: Php {user.prev_balance}\n")
-        print(f"Total Balance is: Php {user.week_balance + user.prev_balance}\n\nReturning to Menu in...\n")
+        print(f"Total Balance is: Php {user.week_balance + user.prev_balance}\n\nReturning to Menu in...")
         for i in range(3):
             time.sleep(1)
             print(f"{3-i}")
         time.sleep(1)
 
-    elif user_choice == "3":
-                
+    # Summary of all the data of the user
 
+    elif user_choice == "3":
+        os.system(cls)
+        print("Time alloted for this week:\n")
+        
+        for i, duration in enumerate(user.time):
+            print(f"{index_to_weekday(i)} : {sec_to_HMS(duration)}")
+
+        print(f"\nTotal Balance: Php {user.prev_balance + user.week_balance}")
+        
+        while True:
+            if input("\nReturn to Menu? (Y/N) ").lower() == "y":
+                break
+
+        print(f"\nReturning to Menu in...") 
+        for i in range(3):
+            time.sleep(1)
+            print(f"{3-i}")
+        time.sleep(1)
+     
 def open_JSON_File(filename, folder_path):
 
     user_data_path = os.path.join(folder_path, filename)
