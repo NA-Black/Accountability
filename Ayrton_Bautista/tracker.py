@@ -3,6 +3,17 @@ import json
 import os
 import datetime
 
+def system_id_clear():
+    from sys import platform
+
+    if platform == "linux" or platform == "linux2":
+        return "clear"
+    elif platform == "darwin":
+        return "clear"
+    elif platform == "win32":
+        return "cls"
+
+
 def weekday_to_index (date):
     day_index = date.weekday()
     if day_index == 6:

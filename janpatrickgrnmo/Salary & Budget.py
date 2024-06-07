@@ -1,5 +1,17 @@
 import time
 import os
+import platform
+
+def system_id_clear():
+    from sys import platform
+
+    if platform == "linux" or platform == "linux2":
+        return "clear"
+    elif platform == "darwin":
+        return "clear"
+    elif platform == "win32":
+        return "cls"
+
 
 def calculate_salary_and_budget():
     print("Welcome! This program will automatically calculate your Salary & Budget for every cut-off.")
@@ -37,7 +49,10 @@ def calculate_salary_and_budget():
     while True:
         create_budget = input("\nWould you like to create a budget allocation for your Spending Money? (yes/no): ").strip().lower()
         if create_budget in ['yes', 'no']:
-            os.system("clear")
+            
+            #for clearing the terminal
+            os_id_clear = system_id_clear()
+            os.system(os_id_clear)
             break
         else:
             print("\nInvalid input. Please enter 'yes' or 'no'.")
