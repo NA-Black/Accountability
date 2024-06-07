@@ -68,7 +68,7 @@ def calculate_salary_and_budget():
                     item = input("\nBudget Item: ").strip().lower()
                     if item == 'reset':
                         print("\nYour budget allocation inputs have been reset.")
-                        print("\n" + "\n" * 50)
+                        os.system(cls)
                         reset_flag = True
                         break
                     if item in budget_items:
