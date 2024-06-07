@@ -102,7 +102,7 @@ def calculate_salary_and_budget():
             budget_allocation[item] = sum(salary * (1 - emergency_fund_percentage / 100) * (percentage / 100) for salary in salaries)
         
         # Page break before presenting the salary and budget
-        print("\n" + "\n" * 50)
+        os.system(cls)
         print("Computing Salary & Budget...")
         time.sleep(2)
         print(f"\nSALARY:\n")
@@ -113,7 +113,7 @@ def calculate_salary_and_budget():
             print(f"Total {item.capitalize()}: PHP {amount:.2f}")
     else:
         # Page break before presenting the salary
-        print("\n" + "\n" * 50)
+        os.system(cls)
         print("\nBudget allocation skipped.\n")
         total_spending_money = sum(salary * (1 - emergency_fund_percentage / 100) for salary in salaries)
         print("Computing your Spending Money & Emergency Fund...\n")
