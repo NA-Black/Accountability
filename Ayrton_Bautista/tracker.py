@@ -90,7 +90,7 @@ def menu (user):
         os.system("cls")
         user.summary_week()
         
-        print(f"This Week's Balance is: Php {user.week_balance})
+        print(f"This Week's Balance is: Php {user.week_balance}")
         print(f"Previous Week's Balance is: Php {user.prev_balance}\n")
         print(f"Total Balance is: Php {user.week_balance + user.prev_balance}\n\nReturning to Menu in...\n")
         for i in range(4):
