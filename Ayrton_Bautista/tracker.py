@@ -13,6 +13,10 @@ def system_id_clear():
     elif platform == "win32":
         cls = "cls"
 
+def index_to_weekday(index):
+    days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+    return days[index % 7]  # Get remainder after dividing by 7
+
 
 def weekday_to_index (date):
     day_index = date.weekday()
@@ -101,7 +105,6 @@ def menu (user):
             else:
                 print("Input a valid response.\n")
 
-
     elif user_choice == "2":
         os.system(cls)
         user.summary_week()
@@ -113,6 +116,9 @@ def menu (user):
             time.sleep(1)
             print(f"{3-i}")
         time.sleep(1)
+
+    elif user_choice == "3":
+                
 
 def open_JSON_File(filename, folder_path):
 
@@ -128,7 +134,13 @@ def open_JSON_File(filename, folder_path):
     except json.JSONDecodeError:
         print(f"Error: '{user_data_path}' is not a valid JSON file.")
     
-def write_    
+def write_JSON_file(filename, folder_path, user_data, current_user):
+    user_data_path = os.path.join(folder_path, filename)
+
+    user_data[username]["time"] = current_user.time
+    user_data[username]["week_balance"] = current_user.week_balance 
+    with open(user_data_path,'w') as file:
+        json.dump(user_data, file, indent=4)
 
 if __name__ == "__main__":
     system_id_clear()
@@ -157,11 +169,7 @@ if __name__ == "__main__":
                         break
                     
                     # Updating the JSON File
-
-                    user_data[username]["time"] = user.time
-                    user_data[username]["week_balance"] = user.week_balance 
-                    with open(user_data_path,'w') as file:
-                        json.dump(user_data, file, indent=4)
+                    write_JSON_file("user_data.json","user_data",user_data,user)
             else:
                 print("User not found. Please enter a valid username.")
                 time.sleep(2)
