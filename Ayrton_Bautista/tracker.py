@@ -5,13 +5,13 @@ import datetime
 
 def system_id_clear():
     from sys import platform
-
+    global cls
     if platform == "linux" or platform == "linux2":
-        return "clear"
+        cls = "clear"
     elif platform == "darwin":
-        return "clear"
+        cls = "clear"
     elif platform == "win32":
-        return "cls"
+        cls = "cls"
 
 
 def weekday_to_index (date):
@@ -60,7 +60,7 @@ def menu (user):
     # Learning Session including updating the time in the JSON File
     elif user_choice == "1":
         while True:
-            os.system("cls")
+            os.system(cls)
 
             # user input to start the timer
             # if user input "N", the program will loop back and ask again
@@ -103,7 +103,7 @@ def menu (user):
 
 
     elif user_choice == "2":
-        os.system("cls")
+        os.system(cls)
         user.summary_week()
         
         print(f"This Week's Balance is: Php {user.week_balance}")
@@ -128,8 +128,10 @@ def open_JSON_File(filename, folder_path):
     except json.JSONDecodeError:
         print(f"Error: '{user_data_path}' is not a valid JSON file.")
     
+def write_    
 
 if __name__ == "__main__":
+    system_id_clear()
     
     # accessing the user_data file
     user_data = open_JSON_File("user_data.json","user_data")
@@ -137,24 +139,25 @@ if __name__ == "__main__":
     # Access the JSON File and check if username exist
     while True:
         # Ask the user for their username
-        os.system("cls")
+        os.system(cls)
         username = input("Input Github Username or Quit(Q): ")
         if username.lower() == "q":
             break
         else:   
             if username in user_data:
-                os.system("cls")
+                os.system(cls)
                 user_name = user_data[username]["name"].upper()
                 print(f"*** WELCOME ***\n{user_name}")
                 user = time_sheet(user_data[username])        
                 time.sleep(2)
 
                 while True:
-                    os.system("cls")
+                    os.system(cls)
                     if menu(user):
                         break
                     
                     # Updating the JSON File
+
                     user_data[username]["time"] = user.time
                     user_data[username]["week_balance"] = user.week_balance 
                     with open(user_data_path,'w') as file:
