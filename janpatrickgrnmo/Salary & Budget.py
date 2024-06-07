@@ -14,7 +14,7 @@ def system_id_clear():
 
 def calculate_salary_and_budget():
     print("Welcome! This program will automatically calculate your Salary & Budget for every cut-off.")
-    time.sleep(2)
+    time.sleep(1)
     while True:
         try:
             num_salaries = int(input("\nHow many salaries would you like to input? "))
