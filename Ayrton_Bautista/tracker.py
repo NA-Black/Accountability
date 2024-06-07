@@ -72,12 +72,15 @@ def menu (user):
 
                         # record the stop time of the session
                         stop_time = time.time()
-                        print(f"Total duration for this session is: {sec_to_HMS(stop_time - start_time)}\nReturning to Menu in...")
+                        print(f"Total duration for this session is: {sec_to_HMS(stop_time - start_time)})
+                        print("\nReturning to Menu in...")
                         user.time[weekday_to_index(datetime.datetime.today())] += time.time() - start_time
                         user.summary_week()
-                        for i in range(4):
+
+                        for i in range(3):
                             time.sleep(1)
-                            print(f"{4-i-1}")
+                            print(f"{3-i}")
+                        time.sleep(1)    
                         break
                     print(f"Elapse Time: {sec_to_HMS(time.time() - start_time)}")
                     
@@ -93,52 +96,59 @@ def menu (user):
         print(f"This Week's Balance is: Php {user.week_balance}")
         print(f"Previous Week's Balance is: Php {user.prev_balance}\n")
         print(f"Total Balance is: Php {user.week_balance + user.prev_balance}\n\nReturning to Menu in...\n")
-        for i in range(4):
+        for i in range(3):
             time.sleep(1)
-            print(f"{4-i-1}")
+            print(f"{3-i}")
+        time.sleep(1)
 
-# accessing the user_data file
+def open_JSON_File(filename, folder_path):
 
-folder_path = "user_data"  # Relative path to the folder
-filename = "user_data.json"
-user_data_path = os.path.join(folder_path, filename)
+    user_data_path = os.path.join(folder_path, filename)
+    
+    try:
+        with open(user_data_path) as file:
+            return json.load(file)
 
-try:
-    with open(user_data_path) as file:
-        user_data = json.load(file)
+    except FileNotFoundError:
+        print(f"Error: File '{user_data_path}' not found.")
 
-except FileNotFoundError:
-    print(f"Error: File '{user_data_path}' not found.")
+    except json.JSONDecodeError:
+        print(f"Error: '{user_data_path}' is not a valid JSON file.")
+    
 
-except json.JSONDecodeError:
-    print(f"Error: '{user_data_path}' is not a valid JSON file.")
+if __name__ == "__main__":
+    
+    # accessing the user_data file
+    user_data = open_JSON_File("user_data.json","user_data")
 
-# Access the JSON File and check if username exist
-
-while True:
-    # Ask the user for their username
-    os.system("cls")
-    username = input("Input Github Username or Quit(Q): ")
-    if username.lower() == "q":
-        break
-    else:   
-        if username in user_data:
-            os.system("cls")
-            user_name = user_data[username]["name"].upper()
-            print(f"*** WELCOME ***\n{user_name}")
-            user = time_sheet(user_data[username])        
-            time.sleep(2)
-
-            while True:
+    # Access the JSON File and check if username exist
+    while True:
+        # Ask the user for their username
+        os.system("cls")
+        username = input("Input Github Username or Quit(Q): ")
+        if username.lower() == "q":
+            break
+        else:   
+            if username in user_data:
                 os.system("cls")
-                if menu(user):
-                    break
-                
-                # Updating the JSON File
-                user_data[username]["time"] = user.time
-                user_data[username]["week_balance"] = user.week_balance 
-                with open(user_data_path,'w') as file:
-                    json.dump(user_data, file, indent=4)
-        else:
-            print("User not found. Please enter a valid username.")
-            time.sleep(2)
+                user_name = user_data[username]["name"].upper()
+                print(f"*** WELCOME ***\n{user_name}")
+                user = time_sheet(user_data[username])        
+                time.sleep(2)
+
+                while True:
+                    os.system("cls")
+                    if menu(user):
+                        break
+                    
+                    # Updating the JSON File
+                    user_data[username]["time"] = user.time
+                    user_data[username]["week_balance"] = user.week_balance 
+                    with open(user_data_path,'w') as file:
+                        json.dump(user_data, file, indent=4)
+            else:
+                print("User not found. Please enter a valid username.")
+                time.sleep(2)
+
+
+
