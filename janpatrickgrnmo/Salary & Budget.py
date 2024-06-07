@@ -4,14 +4,13 @@ import platform
 
 def system_id_clear():
     from sys import platform
-
+    global cls
     if platform == "linux" or platform == "linux2":
-        return "clear"
+        cls = "clear"
     elif platform == "darwin":
-        return "clear"
+        cls = "clear"
     elif platform == "win32":
-        return "cls"
-
+        cls = "cls"
 
 def calculate_salary_and_budget():
     print("Welcome! This program will automatically calculate your Salary & Budget for every cut-off.")
@@ -51,8 +50,7 @@ def calculate_salary_and_budget():
         if create_budget in ['yes', 'no']:
             
             #for clearing the terminal
-            os_id_clear = system_id_clear()
-            os.system(os_id_clear)
+            os.system(cls)
             break
         else:
             print("\nInvalid input. Please enter 'yes' or 'no'.")
@@ -127,4 +125,5 @@ def calculate_salary_and_budget():
     print("\nThank you! Always remember to spend your money wisely.\n")
 
 if __name__ == "__main__":
+    system_id_clear()
     calculate_salary_and_budget()
