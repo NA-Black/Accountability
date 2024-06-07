@@ -37,7 +37,7 @@ def calculate_salary_and_budget():
     while True:
         create_budget = input("\nWould you like to create a budget allocation for your Spending Money? (yes/no): ").strip().lower()
         if create_budget in ['yes', 'no']:
-            print("\n" + "\n" * 50)
+            os.system("clear")
             break
         else:
             print("\nInvalid input. Please enter 'yes' or 'no'.")
