@@ -72,7 +72,9 @@ def menu (user):
 
                         # record the stop time of the session
                         stop_time = time.time()
-                        print(f"Total duration for this session is: {sec_to_HMS(stop_time - start_time)})
+                        print(f"Total duration for this session is: {sec_to_HMS(stop_time - start_time)}"
+                              )
+                        time.sleep(1)
                         print("\nReturning to Menu in...")
                         user.time[weekday_to_index(datetime.datetime.today())] += time.time() - start_time
                         user.summary_week()
