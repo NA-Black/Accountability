@@ -1,6 +1,9 @@
+import time
+import os
+
 def calculate_salary_and_budget():
     print("Welcome! This program will automatically calculate your Salary & Budget for every cut-off.")
-    
+    time.sleep(2)
     while True:
         try:
             num_salaries = int(input("\nHow many salaries would you like to input? "))
@@ -34,7 +37,7 @@ def calculate_salary_and_budget():
     while True:
         create_budget = input("\nWould you like to create a budget allocation for your Spending Money? (yes/no): ").strip().lower()
         if create_budget in ['yes', 'no']:
-            print("\n" + "\n" * 50)
+            os.system("clear")
             break
         else:
             print("\nInvalid input. Please enter 'yes' or 'no'.")
@@ -87,6 +90,8 @@ def calculate_salary_and_budget():
         
         # Page break before presenting the salary and budget
         print("\n" + "\n" * 50)
+        print("Computing Salary & Budget...")
+        time.sleep(2)
         print(f"\nSALARY:\n")
         print(f"Total Spending Money: PHP {total_spending_money:.2f}")
         print(f"Total Emergency Fund: PHP {total_emergency_fund:.2f}")
@@ -98,6 +103,8 @@ def calculate_salary_and_budget():
         print("\n" + "\n" * 50)
         print("\nBudget allocation skipped.\n")
         total_spending_money = sum(salary * (1 - emergency_fund_percentage / 100) for salary in salaries)
+        print("Computing your Spending Money & Emergency Fund...\n")
+        time.sleep(2)
         print("SALARY:")
         print(f"\nTotal Spending Money: PHP {total_spending_money:.2f}")
         print(f"Total Emergency Fund: PHP {total_emergency_fund:.2f}")
