@@ -1,16 +1,7 @@
 import time
-import os
-import platform
 
-def system_id_clear():
-    from sys import platform
-    global cls
-    if platform == "linux" or platform == "linux2":
-        cls = "clear"
-    elif platform == "darwin":
-        cls = "clear"
-    elif platform == "win32":
-        cls = "cls"
+def clear_screen():
+    print("\n" * 100)
 
 def calculate_salary_and_budget():
     print("Welcome! This program will automatically calculate your Salary & Budget for every cut-off.")
@@ -48,9 +39,7 @@ def calculate_salary_and_budget():
     while True:
         create_budget = input("\nWould you like to create a budget allocation for your Spending Money? (yes/no): ").strip().lower()
         if create_budget in ['yes', 'no']:
-            
-            #for clearing the terminal
-            os.system(cls)
+            clear_screen()
             break
         else:
             print("\nInvalid input. Please enter 'yes' or 'no'.")
@@ -68,7 +57,7 @@ def calculate_salary_and_budget():
                     item = input("\nBudget Item: ").strip().lower()
                     if item == 'reset':
                         print("\nYour budget allocation inputs have been reset.")
-                        os.system(cls)
+                        clear_screen()
                         reset_flag = True
                         break
                     if item in budget_items:
@@ -102,9 +91,10 @@ def calculate_salary_and_budget():
             budget_allocation[item] = sum(salary * (1 - emergency_fund_percentage / 100) * (percentage / 100) for salary in salaries)
         
         # Page break before presenting the salary and budget
-        os.system(cls)
-        print("Computing Salary & Budget...")
+        clear_screen()
+        print("\nComputing Salary & Budget...")
         time.sleep(2)
+        clear_screen()
         print(f"\nSALARY:\n")
         print(f"Total Spending Money: PHP {total_spending_money:.2f}")
         print(f"Total Emergency Fund: PHP {total_emergency_fund:.2f}")
@@ -113,11 +103,12 @@ def calculate_salary_and_budget():
             print(f"Total {item.capitalize()}: PHP {amount:.2f}")
     else:
         # Page break before presenting the salary
-        os.system(cls)
+        clear_screen()
         print("\nBudget allocation skipped.\n")
         total_spending_money = sum(salary * (1 - emergency_fund_percentage / 100) for salary in salaries)
         print("Computing your Spending Money & Emergency Fund...\n")
         time.sleep(2)
+        clear_screen()
         print("SALARY:")
         print(f"\nTotal Spending Money: PHP {total_spending_money:.2f}")
         print(f"Total Emergency Fund: PHP {total_emergency_fund:.2f}")
@@ -125,5 +116,4 @@ def calculate_salary_and_budget():
     print("\nThank you! Always remember to spend your money wisely.\n")
 
 if __name__ == "__main__":
-    system_id_clear()
     calculate_salary_and_budget()
