@@ -15,3 +15,61 @@ SQL Components in database communication:
 4. Data Control Language (DCL) - GRANT, REVOKE commands; deal with rights, permissions, control-level management tasks
 
 SQL Databases Forms: Oracle Database, Microsoft SQL Server, MySQL
+
+--------------------------------------------------------------------------------
+
+What are relational databases?
+
+Relational Database - stores and organizes data in a structured way
+- uses a structure that allows data to be identified and accessed in relation to other data in the database
+- data is stored in various data tables, has a unique key identifying every row
+
+Example: 'Employees' Table
+EmployeeID      FirstName      LastName      Email
+1               John            Doe           john.doe@example.com
+2               Jane            Doe           jane.doe@example.com
+3               Bob             Smith         bob.smith@example.com
+
+Keys - used by relational databases to create links between tables
+Primary Key - unique identifier of a row of data
+Foreign Key - column or combination of columns used to establish and enforce link between data in two tables
+
+Example: 'Orders' Table
+OrderID        EmployeeID      Product
+1              3               Apples
+2              1               Bananas
+3              2               Cherries
+
+Foreign Key: 'EmployeeID' (creates relationship between 'Orders' and 'Employees')
+
+Task: "Find all orders placed by John Doe"
+SQL Code:
+SELECT Orders.OrderID, Orders.Product, Employees.FirstName, Employees.LastName
+FROM Orders
+INNER JOIN Employees ON Orders.EmployeeID = Employees.EmployeeID;
+
+Above is an example of how to retrieve data from relational database using JOIN clause to combine rows from 2 or more tables
+
+----------------------------------------------------------------------------------------------
+
+RDBMS Benefits and Limitations:
+
+RDBMS - Relational DataBase Management System
+
+Benefits:
+1. Structured Data - allows data storage using rows and columns in table
+2. ACID Properties - Atomicity, Consistency, Isolation, Durability; ensures reliable and safe data manipulation in RDBMS
+3. Normalization - process that reduces data redundancy and improves data integrity
+4. Scalability - allows addition of more storage or computation resources as data and workload grow
+5. Data Integrity - constraints, primary keys, foreign keys ensure data is accurate and reliable
+6. Security - User authentication, access control, data encryption for sensitive data
+
+Limitations
+1. Complexity - requires technical knowledge and skills to manage, tune, optimize database
+2. Cost - RDBMS is expensive in terms of licensing fees and computational storage
+3. Fixed Schema - RDBMS is rigid; any changes to schema is time-consuming and complicated
+4. Handling of Unstructured Data - multimedia files, social media posts, sensor data are not suitable in RDBMS
+5. Horizontal Scalability - RDBMS is not as easily horizontally scalable (adding more machines to system) as NoSQL Databases; challenging in terms of cost and complexity
+
+-------------------------------------------------------------------------------------------------
+
