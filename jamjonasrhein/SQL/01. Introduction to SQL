@@ -1,0 +1,17 @@
+Introduction to SQL
+
+SQL - Structured Query Language
+- programming language used to communicate with and manage databases
+- for manipulating data held in RDBMS
+- for stream processing in RDSMS
+
+RDBMS - relational database management systems
+RDSMS - relational data stream management system
+
+SQL Components in database communication:
+1. Queries -  allows to retrieve data from database; SELECT statement is used
+2. Data Definition Language (DDL) - to create, alter, delete databases and related objects like tables and views; CREATE, ALTER, DROP, TRUNCATE commands
+3. Data Manipulation Language (DML) - manage data within database objects; SELECT, INSERT, UPDATE, DELETE commands
+4. Data Control Language (DCL) - GRANT, REVOKE commands; deal with rights, permissions, control-level management tasks
+
+SQL Databases Forms: Oracle Database, Microsoft SQL Server, MySQL
