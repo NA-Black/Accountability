@@ -1,0 +1,31 @@
+Design Document Sample for Data Analysis
+
+1. Problem Statement
+A new product is launching and metrics need to be created to define...
+
+2. Proposed Solution
+Identify and define the metrics required to measure the success of...
+
+3. Scope of the Project
+This project will be completed in multiple phases.
+
+  Phase 1 - Analysis
+  The analysis of the metrics to measure the product.
+
+  Phase 2 - Automation
+  Automate an alarming alerting the customers when a metric is behind.
+
+4. Design
+Dashboard Features
+  i. Ability to filter by customer and request date
+  ii. Calculate request total
+    a. By customer
+    b. By date
+    c. Filter by customer type and request type and aggregate it
+
+5. Technical Architecture
+The technical architecture will be combining multiple data sources via an ETL.
+
+6. Data Model
+...
+
