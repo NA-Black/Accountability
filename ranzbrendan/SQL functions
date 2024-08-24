@@ -8,5 +8,13 @@ STRING MANIPULATION
 4. SUBSTR - Same as SUBSTRING.
       SELECT SUBSTR(string, start, length);
 5. SPLIT_PART - Splits a text based on a delimiter.
-      SELECT SPLIT_PART('string1,string2,string3', ',', 2);    ->    string2
+      SELECT SPLIT_PART('string1,string2,string3', ',', 2);    ->    string2       
+6. CONCAT - Concats nonchars and chars.
+      SELECT CONCAT(string1,num1,string2);      ->      string1num1string2
+   OR 
+      SELECT string1 || num1 || string2; -- returns NULL if any component is NULL.
+7. TRIM - Trims the string at both ends. Trims spaces by default. Add second parameter for different trim setting.
+      SELECT TRIM(string, chars_to_trim);
+8. LENGTH - Outputs the length of the string.
+      SELECT LENGTH(string);
    
