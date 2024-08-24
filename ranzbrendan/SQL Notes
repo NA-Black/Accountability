@@ -1,26 +1,34 @@
 STRING MANIPULATION
-1. LEFT - Select substring from a string starting from the left.
-      SELECT LEFT(string, first_n_characters);
-2. RIGHT - Select substring from a string starting from the right.
-      SELECT RIGHT(string, last_n_characters);
-3. SUBSTRING - Select substring from a string in the middle of the string.
-      SELECT SUBSTRING(string FROM start FOR length);
-4. SUBSTR - Same as SUBSTRING.
-      SELECT SUBSTR(string, start, length);
-5. SPLIT_PART - Splits a text based on a delimiter.
-      SELECT SPLIT_PART('string1,string2,string3', ',', 2);    ->    string2       
-6. CONCAT - Concats nonchars and chars.
-      SELECT CONCAT(string1,num1,string2);      ->      string1num1string2
-   OR 
-      SELECT string1 || num1 || string2; -- returns NULL if any component is NULL.
-7. TRIM - Trims the string at both ends. Trims spaces by default. Add second parameter for different trim setting.
-      SELECT TRIM(string, chars_to_trim);
-   ALSO
-      RTRIM & LTRIM - Right and Left trims respectively.
-8. LENGTH - Outputs the length of the string.
-      SELECT LENGTH(string);
+> Functions 
+      1. LEFT - Select substring from a string starting from the left.
+            SELECT LEFT(string, first_n_characters);
+      2. RIGHT - Select substring from a string starting from the right.
+            SELECT RIGHT(string, last_n_characters);
+      3. SUBSTRING - Select substring from a string in the middle of the string.
+            SELECT SUBSTRING(string FROM start FOR length);
+      4. SUBSTR - Same as SUBSTRING.
+            SELECT SUBSTR(string, start, length);
+      5. SPLIT_PART - Splits a text based on a delimiter.
+            SELECT SPLIT_PART('string1,string2,string3', ',', 2);    ->    string2       
+      6. CONCAT - Concats nonchars and chars.
+            SELECT CONCAT(string1,num1,string2);      ->      string1num1string2
+         OR 
+            SELECT string1 || num1 || string2; -- returns NULL if any component is NULL.
+      7. TRIM - Trims the string at both ends. Trims spaces by default. Add second parameter for different trim setting.
+            SELECT TRIM(string, chars_to_trim);
+         ALSO
+            RTRIM & LTRIM - Right and Left trims respectively.
+      8. LENGTH - Outputs the length of the string.
+            SELECT LENGTH(string);
    
 DATE/TIME TYPES AND FORMATS
 > Follows ISO 8601 format:
       - YYYY-MM-DD HH:MM:SS
 > Timezones are based on UTC (Coordinated Universal Time)
+> Functions to Extract datetime Fields
+      1. date_part('field', timestamp)
+      2. EXTRACT(field FROM timestamp)
+> Functions to truncate dates
+      1. date_trunc('field', timestamp)
+> Get name of the day of the week
+      1. to_char(timestamp, 'day')
