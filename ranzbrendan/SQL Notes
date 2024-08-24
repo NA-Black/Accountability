@@ -20,3 +20,7 @@ STRING MANIPULATION
 8. LENGTH - Outputs the length of the string.
       SELECT LENGTH(string);
    
+DATE/TIME TYPES AND FORMATS
+> Follows ISO 8601 format:
+      - YYYY-MM-DD HH:MM:SS
+> Timezones are based on UTC (Coordinated Universal Time)
