@@ -15,6 +15,8 @@ STRING MANIPULATION
       SELECT string1 || num1 || string2; -- returns NULL if any component is NULL.
 7. TRIM - Trims the string at both ends. Trims spaces by default. Add second parameter for different trim setting.
       SELECT TRIM(string, chars_to_trim);
+   ALSO
+      RTRIM & LTRIM - Right and Left trims respectively.
 8. LENGTH - Outputs the length of the string.
       SELECT LENGTH(string);
    
