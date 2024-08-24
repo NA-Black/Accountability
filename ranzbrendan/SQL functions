@@ -1,0 +1,12 @@
+STRING MANIPULATION
+1. LEFT - Select substring from a string starting from the left.
+      SELECT LEFT(string, first_n_characters);
+2. RIGHT - Select substring from a string starting from the right.
+      SELECT RIGHT(string, last_n_characters);
+3. SUBSTRING - Select substring from a string in the middle of the string.
+      SELECT SUBSTRING(string FROM start FOR length);
+4. SUBSTR - Same as SUBSTRING.
+      SELECT SUBSTR(string, start, length);
+5. SPLIT_PART - Splits a text based on a delimiter.
+      SELECT SPLIT_PART('string1,string2,string3', ',', 2);    ->    string2
+   
