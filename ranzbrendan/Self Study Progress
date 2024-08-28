@@ -28,6 +28,16 @@ I. CS50
   | Aug 26, 2024 - Final Project [9:03 AM - 11:07 PM]
   | Aug 27, 2024 - Final Project [9:47 AM - 11:32 AM] [11:50 AM - 12:39 PM] [12:45 PM - 2:25 PM]
   | Aug 28, 2024 - Final Project [8:31 AM - 11:43 PM]
+                 - Final Project [8:17 PM - 
+                   > Need to add checks for the add transaction feature.
+                   > Only numbers and one decimal pt for amount.
+                   > Date before current date.  
+                   > Can accept form w/ or w/o description
+                   > Only display categories for their respective transaction types.
+                   > Alert which says income will be below 0 if you add transaction.
+                   > Pressing / Hovering over rows shows description
+                   > Add filtering for categories.
+
 
 II. DataCamp - Associate Data Analyst in SQL Track
   | Aug 13, 2024 - Course 5 of 12 : Data Manipulation in SQL.
