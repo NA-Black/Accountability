@@ -58,7 +58,7 @@
 ```
 
 ### II. DataCamp - Associate Data Analyst in SQL Track
-'''
+```
   | Aug 13, 2024 - Course 5 of 12 : Data Manipulation in SQL.
                  - Finished Chapter 1 of 4 on CASE statements.
                  - Started and Finished topic 2 of 4 on subqueries inside SELECT, FROM, and WHERE clauses.
@@ -126,10 +126,10 @@
   | Sept 1, 2024 - Data Analyst Associate Exam [9:00 AM - 10:18 AM]
                  - Sample Practical Exam [10:20 AM - 11:20 AM] [9:26 PM - 10:49 PM]
   | Sept 2, 2024 - Practical Exam [8:44 AM - 10:10 AM]
-'''
+```
 
 ### III. DataCamp - Data Analyst with Python
-'''
+```
   | Sept 2, 2024 - Course 1 of 14: Introduction to Python
                  - Chapter 1 on Python Basics [4:46 PM - 4:54 PM]
                  - Chapter 2 on Python Lists [4:56 PM - 5:11 PM]
@@ -137,9 +137,10 @@
                  - Chapter 4 on NumPy [5:32 PM - 6:00 PM]
   | Sept 3, 2024 - Course 2 of 14: Intermediate Python
                  - Chapter 1 on Matplotlib [11:04 AM - 11:35 AM]
-'''
+```
 
-III. Youtube
+### III. Youtube
+```
   | Aug 20, 2024 - Learn how to do ETL using python [9:00 AM - 10:09 AM]
                  - Installed PostgreSQL and added sample database.
   | Aug 22, 2024 - Data Analyst Portfolio Project - SQL | Step-by-Step Guide From SQL Database to Interactive Dashboard [9:43 PM - 10:19 PM]
@@ -148,8 +149,10 @@ III. Youtube
   | Sept 2, 2024 - Data Analyst Protfolio Project - SQL [10:48 AM - 12:53 PM] [1:51 PM - 4:36 PM]
                  - Installed Tableau Public
   | Sept 3, 2024 - Data Analyst Portfolio Project - Data Cleaning [1:10 PM - 2:42 PM]
+```
 
-IV. Books
+### IV. Books
+```
   | Aug 20, 2024 - Fundamentals of Data Engineering.
                  - Chapter 1: Data Engineering Described. 
                    > [10:32 AM - 11:17 AM] ~ till page 7
@@ -160,5 +163,5 @@ IV. Books
                    > [3:34 PM - 4:47 PM ] ~ till page 32
   | Aug 24, 2024 - Chapter 2.
                    > [11:35 AM - 12:29 PM] ~ page 55
-  
+```
                 
