@@ -144,6 +144,7 @@
                  - Chapter 4 on NumPy [5:32 PM - 6:00 PM]
   | Sept 3, 2024 - Course 2 of 14: Intermediate Python
                  - Chapter 1 on Matplotlib [11:04 AM - 11:35 AM]
+                 - Chapter 2 on Dictionaries and Pandas [8:59 PM - 9:17 PM] [11:03 PM - 11:30 PM]
 ```
 
 # IV. Youtube
