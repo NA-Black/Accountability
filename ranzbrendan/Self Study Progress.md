@@ -1,4 +1,4 @@
-[I. CS50](#i.-cs50)          [II. DataCamp - Associate DA SQL](#ii.-datacamp---associate-data-analyst-in-sql-track)
+[I. CS50](#i.-cs50)          [II. DataCamp - Associate DA SQL](#ii.-datacamp-associate-data-analyst-in-sql-track)
 
 # I. CS50
 ```
