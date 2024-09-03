@@ -2,7 +2,7 @@
 ```
   | Aug 13, 2024 - Added profile section for the homepage probset.
   | Aug 14, 2024 - Finished homepage probset.
-                 - Done with **Week 8.**
+                 - Done with Week 8.
   | Aug 15, 2024 - Started the Week 9 lecture.
                  - Topics: Flask, jinja, SQLite & Python, backend stuff, Model View Controller, cookies & sessions
   | Aug 16, 2024 - Finished Week 9 Lecture. [9:40 AM - 11:09 AM]
