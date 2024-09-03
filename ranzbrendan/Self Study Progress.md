@@ -1,8 +1,8 @@
 [I. CS50](#i-cs50) <br>
 [II. DataCamp - Associate DA SQL](#ii-datacamp---associate-data-analyst-in-sql-track) <br>
 [III. DataCamp - DA Python](#iii-datacamp---data-analyst-with-python) <br>
-[IV. Youtube](#iv-youtube)
-[V. Books](#v-books)
+[IV. Youtube](#iv-youtube) <br>
+[V. Books](#v-books) <br>
 
 # I. CS50
 ```
@@ -145,7 +145,7 @@
                  - Chapter 1 on Matplotlib [11:04 AM - 11:35 AM]
 ```
 
-# III. Youtube
+# IV. Youtube
 ```
   | Aug 20, 2024 - Learn how to do ETL using python [9:00 AM - 10:09 AM]
                  - Installed PostgreSQL and added sample database.
@@ -157,7 +157,7 @@
   | Sept 3, 2024 - Data Analyst Portfolio Project - Data Cleaning [1:10 PM - 2:42 PM]
 ```
 
-# IV. Books
+# V. Books
 ```
   | Aug 20, 2024 - Fundamentals of Data Engineering.
                  - Chapter 1: Data Engineering Described. 
