@@ -59,7 +59,7 @@
   | Sept 3, 2024 - Recording of Final Project [2:41 PM - 6:10 PM]
 ```
 
-### II. DataCamp - Associate Data Analyst in SQL Track
+# II. DataCamp - Associate Data Analyst in SQL Track
 ```
   | Aug 13, 2024 - Course 5 of 12 : Data Manipulation in SQL.
                  - Finished Chapter 1 of 4 on CASE statements.
