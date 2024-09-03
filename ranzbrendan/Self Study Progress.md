@@ -1,4 +1,5 @@
-# I. CS50
+### I. CS50
+'''
   | Aug 13, 2024 - Added profile section for the homepage probset.
   | Aug 14, 2024 - Finished homepage probset.
                  - Done with Week 8.
@@ -54,8 +55,10 @@
   | Sept 3, 2024 - Final Project [8:48 AM - 11:01 AM]
                    > Added validations to all forms.
   | Sept 3, 2024 - Recording of Final Project [2:41 PM - 6:10 PM]
+'''
 
-II. DataCamp - Associate Data Analyst in SQL Track
+### II. DataCamp - Associate Data Analyst in SQL Track
+'''
   | Aug 13, 2024 - Course 5 of 12 : Data Manipulation in SQL.
                  - Finished Chapter 1 of 4 on CASE statements.
                  - Started and Finished topic 2 of 4 on subqueries inside SELECT, FROM, and WHERE clauses.
@@ -123,8 +126,10 @@ II. DataCamp - Associate Data Analyst in SQL Track
   | Sept 1, 2024 - Data Analyst Associate Exam [9:00 AM - 10:18 AM]
                  - Sample Practical Exam [10:20 AM - 11:20 AM] [9:26 PM - 10:49 PM]
   | Sept 2, 2024 - Practical Exam [8:44 AM - 10:10 AM]
+'''
 
-III. DataCamp - Data Analyst with Python
+### III. DataCamp - Data Analyst with Python
+'''
   | Sept 2, 2024 - Course 1 of 14: Introduction to Python
                  - Chapter 1 on Python Basics [4:46 PM - 4:54 PM]
                  - Chapter 2 on Python Lists [4:56 PM - 5:11 PM]
@@ -132,6 +137,7 @@ III. DataCamp - Data Analyst with Python
                  - Chapter 4 on NumPy [5:32 PM - 6:00 PM]
   | Sept 3, 2024 - Course 2 of 14: Intermediate Python
                  - Chapter 1 on Matplotlib [11:04 AM - 11:35 AM]
+'''
 
 III. Youtube
   | Aug 20, 2024 - Learn how to do ETL using python [9:00 AM - 10:09 AM]
