@@ -1,6 +1,6 @@
 [TOC]
 
-### I. CS50
+# I. CS50
 ```
   | Aug 13, 2024 - Added profile section for the homepage probset.
   | Aug 14, 2024 - Finished homepage probset.
