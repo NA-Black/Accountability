@@ -62,6 +62,7 @@
                    > Added validations to all forms.
   | Sept 3, 2024 - Recording of Final Project [2:41 PM - 6:10 PM]
                  - Step 2 of 3: making of README.md file [7:22 PM - 8:56 PM]
+  | Sept 4, 2024 - Step 2 of 3. [8:32 AM - 10: 45 AM]
 ```
 
 # II. DataCamp - Associate Data Analyst in SQL Track
