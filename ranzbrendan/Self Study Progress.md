@@ -146,6 +146,7 @@
   | Sept 3, 2024 - Course 2 of 14: Intermediate Python
                  - Chapter 1 on Matplotlib [11:04 AM - 11:35 AM]
                  - Chapter 2 on Dictionaries and Pandas [8:59 PM - 9:17 PM] [11:03 PM - 11:30 PM]
+  } Sept 4, 2024 - CHapter 3 on Logic, Control Flow and Filtering [8:18 PM - 8:57 PM]
 ```
 
 # IV. Youtube
