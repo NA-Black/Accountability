@@ -158,6 +158,7 @@
   | Sept 2, 2024 - Data Analyst Protfolio Project - SQL [10:48 AM - 12:53 PM] [1:51 PM - 4:36 PM]
                  - Installed Tableau Public
   | Sept 3, 2024 - Data Analyst Portfolio Project - Data Cleaning [1:10 PM - 2:42 PM]
+  | Sept 4, 2024 - Data Cleaning [5:45 PM - 7:14 PM]
 ```
 
 # V. Books
