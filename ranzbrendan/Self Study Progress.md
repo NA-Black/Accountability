@@ -160,6 +160,7 @@
                  - Installed Tableau Public
   | Sept 3, 2024 - Data Analyst Portfolio Project - Data Cleaning [1:10 PM - 2:42 PM]
   | Sept 4, 2024 - Data Cleaning [5:45 PM - 7:14 PM]
+  | Sept 5, 2024 - Python Correlation Project [9:14 AM - 1:09 PM]
 ```
 
 # V. Books
