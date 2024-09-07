@@ -177,5 +177,5 @@
                    > [11:35 AM - 12:29 PM] ~ page 55
 ```
 # VI. Resume & Portfolio
-  | Sept 7, 2024 - Portfolio Website [4:10 PM -
+  | Sept 7, 2024 - Portfolio Website [4:10 PM - 8:52 PM]
                 
