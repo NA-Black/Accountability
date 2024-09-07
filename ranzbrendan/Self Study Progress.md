@@ -176,4 +176,6 @@
   | Aug 24, 2024 - Chapter 2.
                    > [11:35 AM - 12:29 PM] ~ page 55
 ```
+# VI. Resume & Portfolio
+  | Sept 7, 2024 - Portfolio Website [4:10 PM -
                 
