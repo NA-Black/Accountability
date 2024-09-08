@@ -177,5 +177,16 @@
                    > [11:35 AM - 12:29 PM] ~ page 55
 ```
 # VI. Resume & Portfolio
+'''
   | Sept 7, 2024 - Portfolio Website [4:10 PM - 8:52 PM]
+'''
+
+# VII. Associate Data Engineer in SQL
+'''
+  | Sept 8, 2024 - Course 1 : Understanding Data Engineering
+                 - Chapter 1 [9:47 PM -10:15 PM]
+                 - Chapter 2 [10:16 PM - 10:35 PM]
+                 - Chapter 3 [10:35 PM - 11:15 PM]
+'''
+
                 
