@@ -195,4 +195,11 @@
                  - Chapter 3 [3:11 PM - 3:59 PM]
 ```
 
+# VIII. Data Engineering Zoomcamp 
+```
+  | Sept 9, 2024 - Data Engineering Zoomcamp 2023
+                 - DE Zoomcamp 1.1.1 - Introduction to Google Cloud Platform
+                 - DE Zoomcamp 1.2.1 - Introduction to Docker [6:15 PM - 9:47 PM]
+                   > Installed Docker
+
                 
