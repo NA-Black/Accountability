@@ -191,8 +191,14 @@
   | Sept 9, 2024 - Course 6 : Introduction to Relational Databases in SQL
                  - Chapter 1 [9:44 AM - 10:16 AM]
                  - Chapter 2 [10:19 AM - 10:56 PM]
-                 - Chapter 2 [2:37 PM - 3:02 PM]
-                 - Chapter 3 [3:11 PM - 3:59 PM]
+                 - Chapter 3 [2:37 PM - 3:02 PM]
+                 - Chapter 4 [3:11 PM - 3:59 PM]
+                 - Course 7: Database Design
+                 - Chapter 1 [10:50 PM - 11:40 PM]
+  | Sept 10, 2024 - Chapter 2 [8:52 AM - 9:53 AM]
+                    > Data Redundancy due to denormalized databases
+                    > OLTP (write-intensive) is more frequently normalized than OLAP (read-intensive)
+                  - Chapter 3 [9:53 AM - 11:17 AM]
 ```
 
 # VIII. Data Engineering Zoomcamp 
