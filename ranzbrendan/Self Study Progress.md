@@ -207,5 +207,6 @@
                  - DE Zoomcamp 1.1.1 - Introduction to Google Cloud Platform
                  - DE Zoomcamp 1.2.1 - Introduction to Docker [6:15 PM - 9:47 PM]
                    > Installed Docker
+                 - DE Zoomcamp 1.4.1 - Setting up the Environment on Google Cloud (Cloud VM + SSH access) [4:24 PM - 
 
                 
