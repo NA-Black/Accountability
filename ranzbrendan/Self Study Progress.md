@@ -199,6 +199,10 @@
                     > Data Redundancy due to denormalized databases
                     > OLTP (write-intensive) is more frequently normalized than OLAP (read-intensive)
                   - Chapter 3 [9:53 AM - 11:17 AM]
+  | Sept 11, 2024 - Chapter 4 [8:55 AM - 9:41 AM]
+                  - Course 9: Data Warehousing Concepts
+                  - Chapter 1 [9:54 AM - 10:29 AM]
+                  - Chapter 2 [10:31 AM - 11:28 AM]
 ```
 
 # VIII. Data Engineering Zoomcamp 
