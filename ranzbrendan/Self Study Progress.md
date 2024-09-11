@@ -211,6 +211,10 @@
                  - DE Zoomcamp 1.1.1 - Introduction to Google Cloud Platform
                  - DE Zoomcamp 1.2.1 - Introduction to Docker [6:15 PM - 9:47 PM]
                    > Installed Docker
-                 - DE Zoomcamp 1.4.1 - Setting up the Environment on Google Cloud (Cloud VM + SSH access) [4:24 PM - 
+  | Sept 10, 2024 - DE Zoomcamp 1.4.1 - Setting up the Environment on Google Cloud (Cloud VM + SSH access) [4:24 PM - 9:30 PM]
+  | Sept 11, 2024 - DE Zoomcamp 1.4.1 [12:12 PM - 5:18 PM]
+                  - DE Zoomcamp 1.4.2 - Using Github Codespaces for the Course (by Luis Oliveira) [5:23 PM - 5:36 PM]
+                  - DE Zoomcamp 1.2.2 - Ingesting NY Taxi Data to Postgres [5:36 PM - 9:59 PM]
+                    > Set -p 5433:5432
 
                 
