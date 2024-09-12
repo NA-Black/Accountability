@@ -207,6 +207,7 @@
                   - Chapter 4 [9:42 AM - 10:31 AM]
                   - Course 10: Introduction to Snowflake
                   - Chapter 1 [10:35 AM - 11:02 AM]
+                  - Chapter 2 [6:36 PM - 7:34 PM]
 ```
 
 # VIII. Data Engineering Zoomcamp 
