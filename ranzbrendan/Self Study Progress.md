@@ -203,6 +203,10 @@
                   - Course 9: Data Warehousing Concepts
                   - Chapter 1 [9:54 AM - 10:29 AM]
                   - Chapter 2 [10:31 AM - 11:28 AM]
+                  - Chapter 3 [8:33 AM - 9:07 AM]
+                  - Chapter 4 [9:42 AM - 10:31 AM]
+                  - Course 10: Introduction to Snowflake
+                  - Chapter 1 [10:35 AM - 11:02 AM]
 ```
 
 # VIII. Data Engineering Zoomcamp 
