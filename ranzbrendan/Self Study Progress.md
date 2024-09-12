@@ -220,5 +220,7 @@
                   - DE Zoomcamp 1.4.2 - Using Github Codespaces for the Course (by Luis Oliveira) [5:23 PM - 5:36 PM]
                   - DE Zoomcamp 1.2.2 - Ingesting NY Taxi Data to Postgres [5:36 PM - 9:59 PM]
                     > Set -p 5433:5432
+  | Sept 12, 2024 - DE Zoomcamp 1.2.2 - Optional: Connecting to Postgres with Jupyter and Pandas [3:21 PM - 4:16 PM]
+                  - DE Zoomcamp 1.2.3 - Connecting pgAdmin and Postgres [4:31 PM - 5:35 PM]
 
                 
