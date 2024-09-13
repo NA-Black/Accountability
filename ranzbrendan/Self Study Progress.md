@@ -227,4 +227,8 @@
                   - DE Zoomcamp 1.2.4 - Dockerizing the Ingestion Script [9:24 PM - 10:37 PM]
   | Sept 13, 2024 - DE Zoomcamp 1.2.4 - Dockerizing the Ingestion Script [8:54 AM - 10:13 AM]
                   - DE Zoomcamp 1.2.5 - Running Postgres and pgAdmin with Docker-Compose [10:33 AM - 11:03 AM]
+                  - DE Zoomcamp 1.2.6 - SQL Refreshser [12:13 PM - 2:04 PM]
+                  - DE Zoomcamp 1.3.1 - Terraform Primer [2:05 PM -2:18 PM]
+                  - DE Zoomcamp 1.3.2 - Terraform Basics [2:20 PM - 2:54 PM]
+            
                 
