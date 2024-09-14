@@ -232,4 +232,5 @@
                   - DE Zoomcamp 1.3.2 - Terraform Basics [2:20 PM - 2:54 PM]
   | Sept 14, 2024 - DE Zoomcamp 1.3.2 - Terraform Basics [11:25 AM - 2:26 PM]
                   - DE Zoomcamp 1.3.3 - Terraform Variables [2:35 PM - 3:28 PM]
+                  - DE Zoomcamp 1.5.1 - Port Mapping and Networks in Docker (Bonus) [4:51 PM -
                 
