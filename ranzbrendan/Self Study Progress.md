@@ -237,3 +237,10 @@
                   - DE Zoomcamp 2.2.1 - What is Orchestration? [8:45 PM - 9:09 PM]
                   - DE Zoomcamp 2.2.2 - What is Mage? [9:09 PM - 9:28 PM]
                   - DE Zoomcamp 2.2.2 - Configure Mage [9:42 PM - 10:40 PM]
+```
+
+# IX. Data Engineering in Python
+```
+  | Sept 14, 2024 - Course 1 : Understanding Cloud Computing
+                  - Chapter 1 [10:55 PM - 11:18 PM]
+```
