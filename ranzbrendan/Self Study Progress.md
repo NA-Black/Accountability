@@ -234,4 +234,6 @@
                   - DE Zoomcamp 1.3.3 - Terraform Variables [2:35 PM - 3:28 PM]
                   - DE Zoomcamp 1.5.1 - Port Mapping and Networks in Docker (Bonus) [4:51 PM - 5:11 PM]
                   - Homework 1 [5:24 PM - 7:52 PM]
-                
+                  - DE Zoomcamp 2.2.1 - What is Orchestration? [8:45 PM - 9:09 PM]
+                  - DE Zoomcamp 2.2.2 - What is Mage? [9:09 PM - 9:28 PM]
+                  - DE Zoomcamp 2.2.2 - Configure Mage [9:42 PM - 10:40 PM]
