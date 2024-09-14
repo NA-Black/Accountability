@@ -230,5 +230,6 @@
                   - DE Zoomcamp 1.2.6 - SQL Refreshser [12:13 PM - 2:04 PM]
                   - DE Zoomcamp 1.3.1 - Terraform Primer [2:05 PM -2:18 PM]
                   - DE Zoomcamp 1.3.2 - Terraform Basics [2:20 PM - 2:54 PM]
+  | Sept 14, 2024 - DE Zoomcamp 1.3.2 - Terraform Basics [11:25 AM - 2:26 PM]
             
                 
