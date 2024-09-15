@@ -237,6 +237,11 @@
                   - DE Zoomcamp 2.2.1 - What is Orchestration? [8:45 PM - 9:09 PM]
                   - DE Zoomcamp 2.2.2 - What is Mage? [9:09 PM - 9:28 PM]
                   - DE Zoomcamp 2.2.2 - Configure Mage [9:42 PM - 10:40 PM]
+  | Sept 15, 2024 - DE Zoomcamp 2.2.2 - A Simple Pipeline [8:44 AM - 8:55 AM]
+                  - DE Zoomcamp 2.2.3 - Configuring Postgres [9:15 AM - 9:36 AM]
+                  - DE Zoomcamp 2.2.3 - ETL: API to Postgres [9:37 AM - 10:25 AM]
+                  - DE Zoomcamp 2.2.4 - Configuring GCP [10:26 AM - 11:19 AM]
+
 ```
 
 # IX. Data Engineering in Python
