@@ -242,7 +242,7 @@
                   - DE Zoomcamp 2.2.3 - ETL: API to Postgres [9:37 AM - 10:25 AM]
                   - DE Zoomcamp 2.2.4 - Configuring GCP [10:26 AM - 11:19 AM]
                   - DE Zoomcamp 2.2.4 - ETL: API to GCS [12:44 PM - 1:29 PM]
-                  - DE Zoomcamp 2.2.5 - ETL: GCS to BigQuery [1:37 PM - 2:07 PM]
+                  - DE Zoomcamp 2.2.5 - ETL: GCS to BigQuery [1:37 PM - 2:07 PM] [10:35 PM - 11:46 PM]
 ```
 
 # IX. Data Engineering in Python
