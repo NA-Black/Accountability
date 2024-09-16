@@ -249,7 +249,9 @@
                   - DE Zoomcamp 2.2.7 - Google Cloud Permissions [10:10 - AM - 10:16 AM]
                   - DE Zoomcamp 2.2.7 - Deploying to Google Cloud Part 1 [10:16 AM - 10:24 AM]
                   - DE Zoomcamp 2.2.7 - Deploying to Google Cloud Part 2 [10:26 AM - 11:05 AM] [4:02 PM - 5:01 PM]
-                  - HOmework 2 [5:11 PM - 8:34 PM]
+                  - Homework 2 [5:11 PM - 8:34 PM]
+                  - DE Zoomcamp 2.2.9 - Next Steps [8:55 PM - 9:05 PM]
+                  - DE Zoomcamp 3.1.1 - Data Warehouse and BigQuery [9:06 PM - 9:39 PM]
 ```
 
 # IX. Data Engineering in Python
