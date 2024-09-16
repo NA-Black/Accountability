@@ -4,7 +4,7 @@
 [IV. Youtube](#iv-youtube) <br>
 [V. Books](#v-books) <br>
 
-# I. CS50
+# I. CS50x
 ```
   | Aug 13, 2024 - Added profile section for the homepage probset.
   | Aug 14, 2024 - Finished homepage probset.
@@ -258,5 +258,10 @@
 ```
   | Sept 14, 2024 - Course 1 : Understanding Cloud Computing
                   - Chapter 1 [10:55 PM - 11:18 PM]
-  | Sept 15, 2024 - Chapter 2 [9:42 PM - 10:13 PM]
+  | Sept 16, 2024 - Chapter 2 [9:42 PM - 10:13 PM]
+```
+
+# X. CS50P
+```
+  | Sept 16, 2024 - CS50P - Introduction [10:24 PM - 10:38 PM]
 ```
