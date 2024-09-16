@@ -243,6 +243,12 @@
                   - DE Zoomcamp 2.2.4 - Configuring GCP [10:26 AM - 11:19 AM]
                   - DE Zoomcamp 2.2.4 - ETL: API to GCS [12:44 PM - 1:29 PM]
                   - DE Zoomcamp 2.2.5 - ETL: GCS to BigQuery [1:37 PM - 2:07 PM] [10:35 PM - 11:46 PM]
+  | Sept 16, 2024 - DE Zoomcamp 2.2.6 - Parameterized Execution [8:43 AM - 9:04 AM]
+                  - DE Zoomcamp 2.2.6 - Backfills [9:09 AM - 9:24 AM]
+                  - DE Zoomcamp 2.2.7 - Deployment Prerequisites [9:25 AM - 10:10 AM]
+                  - DE Zoomcamp 2.2.7 - Google Cloud Permissions [10:10 - AM - 10:16 AM]
+                  - DE Zoomcamp 2.2.7 - Deploying to Google Cloud Part 1 [10:16 AM - 10:24 AM]
+                  - DE Zoomcamp 2.2.7 - Deploying to Google Cloud Part 2 [10:26 AM - 11:05 AM]
 ```
 
 # IX. Data Engineering in Python
