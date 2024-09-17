@@ -267,6 +267,7 @@
   | Sept 14, 2024 - Course 1 : Understanding Cloud Computing
                   - Chapter 1 [10:55 PM - 11:18 PM]
   | Sept 16, 2024 - Chapter 2 [9:42 PM - 10:13 PM]
+  | Sept 17, 2024 - Chapter 3 [10:34 PM - 10:52 PM]
 ```
 
 # X. CS50P
