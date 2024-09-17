@@ -259,6 +259,7 @@
                   - DE Zoomcamp 3.3.2 - BigQuery Machine Learning Deployment [1:25 PM - 1:31 PM]
                   - Homework 3 [2:20 PM - 5:55 PM]
                   - Hack for loading data to BigQuery for Week 4 [6:26 PM - 6:40 PM]
+                  - Import files to bigquery [6:50 PM - 9:47 PM]
 ```
 
 # IX. Data Engineering in Python
