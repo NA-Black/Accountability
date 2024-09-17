@@ -263,5 +263,7 @@
 
 # X. CS50P
 ```
-  | Sept 16, 2024 - CS50P - Introduction [10:24 PM - 10:38 PM]
+  | Sept 16, 2024 - Introduction [10:24 PM - 10:38 PM]
+                  - Lecture 0 : Functions, Variables [11:12 PM - 11:35 PM]
+  | Sept 17, 2024 - Lecture 0 [8:20 AM - 9:16 AM]
 ```
