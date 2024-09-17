@@ -253,6 +253,12 @@
                   - DE Zoomcamp 2.2.9 - Next Steps [8:55 PM - 9:05 PM]
                   - DE Zoomcamp 3.1.1 - Data Warehouse and BigQuery [9:06 PM - 9:39 PM]
   | Sept 17, 2024 - DE Zoomcamp 3.1.2 - Partioning and Clustering [12:05 PM - 12:18 PM]
+  | Sept 17, 2024 - DE Zoomcamp 3.2.1 - BigQuery Best Practices [12:32 PM - 12:39 PM]
+                  - DE Zoomcamp 3.2.2 - Internals of Big Query [12:39 PM - 12:52 PM]
+                  - DE Zoomcamp 3.3.1 - BigQuery Machine Learning [12:52 PM - 1:25 PM]
+                  - DE Zoomcamp 3.3.2 - BigQuery Machine Learning Deployment [1:25 PM - 1:31 PM]
+                  - Homeowrk 3 [2:20 PM - 5:55 PM]
+                  - 
 ```
 
 # IX. Data Engineering in Python
