@@ -266,4 +266,6 @@
   | Sept 16, 2024 - Introduction [10:24 PM - 10:38 PM]
                   - Lecture 0 : Functions, Variables [11:12 PM - 11:35 PM]
   | Sept 17, 2024 - Lecture 0 [8:20 AM - 9:16 AM]
+                  - Week 0 Shorts [10:55 AM - 11:10 AM]
+                  - Problem Set 0 [11:11 AM - 11:54 AM]
 ```
