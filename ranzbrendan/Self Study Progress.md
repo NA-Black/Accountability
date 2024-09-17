@@ -252,6 +252,7 @@
                   - Homework 2 [5:11 PM - 8:34 PM]
                   - DE Zoomcamp 2.2.9 - Next Steps [8:55 PM - 9:05 PM]
                   - DE Zoomcamp 3.1.1 - Data Warehouse and BigQuery [9:06 PM - 9:39 PM]
+  | Sept 17, 2024 - DE Zoomcamp 3.1.2 - Partioning and Clustering [12:05 PM - 12:18 PM]
 ```
 
 # IX. Data Engineering in Python
