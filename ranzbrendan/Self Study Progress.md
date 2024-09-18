@@ -277,4 +277,7 @@
   | Sept 17, 2024 - Lecture 0 [8:20 AM - 9:16 AM]
                   - Week 0 Shorts [10:55 AM - 11:10 AM]
                   - Problem Set 0 [11:11 AM - 11:54 AM]
+                  - Lecture 1 [10:58 PM - 11:42 PM]
+  | Sept 18, 2024 - Week 1 Shorts [8:54 AM - 9:04 AM]
+                  - Problem Set 1 [9:05 AM - 10:13 AM]
 ```
