@@ -260,6 +260,8 @@
                   - Homework 3 [2:20 PM - 5:55 PM]
                   - Hack for loading data to BigQuery for Week 4 [6:26 PM - 6:40 PM]
                   - Import files to bigquery [6:50 PM - 9:47 PM]
+  | Sept 18, 2024 - DE Zoomcamp 4.1.1 - Analytics Engineering Basics [11:28 AM - 11:40 AM]
+                  - DE Zoomcamp 4.1.2 - What is dbt? [11:41 AM - 12:04 AM]
 ```
 
 # IX. Data Engineering in Python
