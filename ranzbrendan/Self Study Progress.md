@@ -263,6 +263,8 @@
   | Sept 18, 2024 - DE Zoomcamp 4.1.1 - Analytics Engineering Basics [11:28 AM - 11:40 AM]
                   - DE Zoomcamp 4.1.2 - What is dbt? [11:41 AM - 12:04 AM]
                   - DE Zoomcamp 4.2.1 - Start Your dbt Project BigQuery and dbt Cloud (Alternative A) [6:19 PM - 7:18 PM]
+                  - DE Zoomcamp 4.2.2 - Start Your dbt Project: Postgres and dbt Core Locally (Alternative B) [7:39 PM - 8:09 PM]
+                  - DE Zoomcamp 4.3.1 - Build the First dbt Models [8:14 PM - 10:13 PM]
 ```
 
 # IX. Data Engineering in Python
