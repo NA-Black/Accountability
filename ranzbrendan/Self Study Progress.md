@@ -285,4 +285,6 @@
                   - Lecture 1 [10:58 PM - 11:42 PM]
   | Sept 18, 2024 - Week 1 Shorts [8:54 AM - 9:04 AM]
                   - Problem Set 1 [9:05 AM - 10:13 AM]
+                  - Lecture 2 [11:42 PM - 12:00 PM]
+  | Sept 19, 2024 - Lecture 2 [9:00 AM - 10:20 AM]
 ```
