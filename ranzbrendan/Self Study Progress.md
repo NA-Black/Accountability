@@ -162,6 +162,7 @@
   | Sept 4, 2024 - Data Cleaning [5:45 PM - 7:14 PM]
   | Sept 5, 2024 - Python Correlation Project [9:14 AM - 1:09 PM]
   | Sept 9, 2024 - Amazon Web Scraping [11:44 AM - 12:49 PM]
+  | Sept 19, 2024 - Daniel Chen: Cleaning and Tidying Data in Pandas | PyData DC 2018
 ```
 
 # V. Books
