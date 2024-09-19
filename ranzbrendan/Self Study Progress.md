@@ -266,6 +266,7 @@
                   - DE Zoomcamp 4.2.2 - Start Your dbt Project: Postgres and dbt Core Locally (Alternative B) [7:39 PM - 8:09 PM]
                   - DE Zoomcamp 4.3.1 - Build the First dbt Models [8:14 PM - 10:13 PM]
   | Sept 19, 2024 - DE Zoomcamp 4.3.1 - Build the First dbt Models [10:40 AM - 2:44 PM]
+                  - DE Zoomcamp 4.3.2 - Testing and Documenting the Project [3:26 PM - 5:25 PM]
 ```
 
 # IX. Data Engineering in Python
