@@ -270,6 +270,9 @@
   | Sept 19, 2024 - DE Zoomcamp 4.3.1 - Build the First dbt Models [10:40 AM - 2:44 PM]
                   - DE Zoomcamp 4.3.2 - Testing and Documenting the Project [3:26 PM - 5:25 PM]
   | Sept 20, 2024 - DE Zoomcamp 4.4.1 - Deployment Using dbt Cloud (Alternative A) [10:19 AM - 11:55 AM]
+  | Sept 21, 2024 - DE Zoomcamp 4.4.1 - Deployment Using dbt Cloud (Alternative A) [11:57 AM - 12:10 PM]
+                  - DE Zoomcamp 4.4.2 - Deployment Using dbt Locally (Alternative B) [12:12 PM - 12:18 PM]
+                  - DE Zoomcamp 4.5.1 - Visualising the data with Google Data Studio (Alternative A) [12:18 PM - 1:20 PM]
 ```
 
 # IX. Data Engineering in Python
