@@ -273,6 +273,8 @@
   | Sept 21, 2024 - DE Zoomcamp 4.4.1 - Deployment Using dbt Cloud (Alternative A) [11:57 AM - 12:10 PM]
                   - DE Zoomcamp 4.4.2 - Deployment Using dbt Locally (Alternative B) [12:12 PM - 12:18 PM]
                   - DE Zoomcamp 4.5.1 - Visualising the data with Google Data Studio (Alternative A) [12:18 PM - 1:20 PM]
+                  - DE Zoomcamp 5.1.1 - Introduction to Batch processing [1:41 PM - 2:04 PM]
+                  - DE Zoomcamp 5.1.2 - Introduction to Spark [2:04 PM = 2:14 PM]
 ```
 
 # IX. Data Engineering in Python
