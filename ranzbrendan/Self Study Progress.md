@@ -277,7 +277,7 @@
                   - DE Zoomcamp 5.1.2 - Introduction to Spark [2:04 PM = 2:14 PM]
   | Sept 22, 2024 - DE Zoomcamp 5.2.1 - (Optional) Installing Spark on Linux [1:03 AM - 1:23 AM] [10:03 AM - 11:06 AM]
                   - DE Zoomcamp 5.3.1 - First Look at Spark/PySpark [1:23 AM - 1:43 AM] [11:07 AM - 11:56 AM]
-                  - 
+                  - DE Zoomcamp 5.3.2 - Spark DataFrames [12:20 PM - 12:45 PM]
 ```
 
 # IX. Data Engineering in Python
