@@ -302,3 +302,8 @@
                   - Lecture 2 [11:42 PM - 12:00 PM]
   | Sept 19, 2024 - Lecture 2 [9:00 AM - 10:20 AM]
 ```
+
+# XI. LeetCode
+```
+  | Sept 22, 2024 - 3 Easy [10:29 PM - 10:56 PM]
+                  - 2 Medium [10:57 PM - 11:39 PM]
