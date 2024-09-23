@@ -280,6 +280,8 @@
                   - DE Zoomcamp 5.3.2 - Spark DataFrames [12:20 PM - 12:45 PM]
                   - DE Zoomcamp 5.3.3 - (Optional) Preparing Yellow and Green Taxi Data [2:11 PM - 5:15 PM]
   | Sept 23, 2024 - DE Zoomcamp 5.3.4 - SQL with Spark [9:01 AM - 9:44 AM]
+                  - DE Zoomcamp 5.4.1 - Anatomy of a Spark Cluster [10:35 AM - 11:08 AM]
+                  - DE Zoomcamp 5.4.2 - GroupBy in Spark [11:09 AM - 11:33 AM]
   
 ```
 
