@@ -282,6 +282,7 @@
   | Sept 23, 2024 - DE Zoomcamp 5.3.4 - SQL with Spark [9:01 AM - 9:44 AM]
                   - DE Zoomcamp 5.4.1 - Anatomy of a Spark Cluster [10:35 AM - 11:08 AM]
                   - DE Zoomcamp 5.4.2 - GroupBy in Spark [11:09 AM - 11:33 AM]
+                  - DE Zoomcamp 5.4.3 - Joins in Spark [3:58 PM - 4:33 PM]
   
 ```
 
