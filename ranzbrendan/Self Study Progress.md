@@ -279,6 +279,8 @@
                   - DE Zoomcamp 5.3.1 - First Look at Spark/PySpark [1:23 AM - 1:43 AM] [11:07 AM - 11:56 AM]
                   - DE Zoomcamp 5.3.2 - Spark DataFrames [12:20 PM - 12:45 PM]
                   - DE Zoomcamp 5.3.3 - (Optional) Preparing Yellow and Green Taxi Data [2:11 PM - 5:15 PM]
+  | Sept 23, 2024 - DE Zoomcamp 5.3.4 - SQL with Spark [9:01 AM - 9:44 AM]
+  
 ```
 
 # IX. Data Engineering in Python
