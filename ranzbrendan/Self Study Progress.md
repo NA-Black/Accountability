@@ -285,6 +285,8 @@
                   - DE Zoomcamp 5.4.3 - Joins in Spark [3:58 PM - 4:33 PM]
                   - DE Zoomcamp 5.5.1 - (Optional) Operations on Spark RDDs [5:36 PM - 6:29 PM]
                   - DE Zoomcamp 5.5.2 - (Optional) Spark RDD mapPartition [9:25 PM - 10:19 PM]
+  | Sept 24, 2024 - DE Zoomcamp 5.6.1 - Connecting to Google Cloud Storage [9:58 AM - 10:45 AM]
+                  - DE Zoomcamp 5.6.2 - Creating a Local Spark Cluster [10:47 AM - 11:33 AM]
 ```
 
 # IX. Data Engineering in Python
