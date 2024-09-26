@@ -311,6 +311,8 @@
                   - Problem Set 1 [9:05 AM - 10:13 AM]
                   - Lecture 2 [11:42 PM - 12:00 PM]
   | Sept 19, 2024 - Lecture 2 [9:00 AM - 10:20 AM]
+  | Sept 26, 2024 - Week 2 Shorts [10:10 AM - 10:54 AM]
+                  - Problem Set 2 [10:55 AM - 12:13 PM]
 ```
 
 # XI. LeetCode
@@ -318,3 +320,9 @@
   | Sept 22, 2024 - 3 Easy [10:29 PM - 10:56 PM]
                   - 2 Medium [10:57 PM - 11:39 PM]
   | Sept 23, 2024 - 3 Easy [11:06 PM - 11:33 PM]
+```
+
+# XII. DataCamp Other Skills
+```
+  | Sept 26, 2024 - SQL Server for Database Administrators [9:45 AM - 10:09 AM]
+```
