@@ -164,6 +164,7 @@
   | Sept 9, 2024 - Amazon Web Scraping [11:44 AM - 12:49 PM]
   | Sept 19, 2024 - Daniel Chen: Cleaning and Tidying Data in Pandas | PyData DC 2018 [6:27 PM - 9:06 PM]
   | Sept 20, 2024 - Daniel Chen: Cleaning and Tidying Data in Pandas | PyData DC 2018 [8:47 AM - 10:06 PM]
+  | Sept 30, 2024 - How to pick between Kimball, One Big Table, and Relational Modeling as a data engineer [12:17 PM - 2:02 PM]
 ```
 
 # V. Books
