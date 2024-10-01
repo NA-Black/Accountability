@@ -315,6 +315,7 @@
   | Sept 19, 2024 - Lecture 2 [9:00 AM - 10:20 AM]
   | Sept 26, 2024 - Week 2 Shorts [10:10 AM - 10:54 AM]
                   - Problem Set 2 [10:55 AM - 12:13 PM]
+  | Oct 1, 2024   - Lecture 3 [2:17 PM - 3:16 PM]
 ```
 
 # XI. LeetCode
