@@ -329,4 +329,6 @@
 ```
   | Sept 26, 2024 - SQL Server for Database Administrators [9:45 AM - 10:09 AM]
   | Sept 30, 2024 - SQL Server for Database Administrators [4:20 PM - 5:13 PM]
+  | Oct 1, 2024   - Introduction to Continuous Integration/Continuous Delivery and YAML [3:25 PM - 4:01 PM]
+
 ```
