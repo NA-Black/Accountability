@@ -292,6 +292,7 @@
                   - DE Zoomcamp Project [1:30 PM - 11:00 PM]
   | Sept 25, 2024 - DE Zoomcamp Project [9:36 AM - 11:14 PM]
   | Oct 1, 2024   - DE Zoomcamp Project [9:55 AM - 12:46 PM] [6:37 PM - 10:12 PM]
+  | Oct 2, 2024   - DE Zoomcamp Project [10:42 AM - 11:53 AM]
 ```
 
 # IX. Data Engineering in Python
