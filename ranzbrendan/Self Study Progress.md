@@ -165,6 +165,7 @@
   | Sept 19, 2024 - Daniel Chen: Cleaning and Tidying Data in Pandas | PyData DC 2018 [6:27 PM - 9:06 PM]
   | Sept 20, 2024 - Daniel Chen: Cleaning and Tidying Data in Pandas | PyData DC 2018 [8:47 AM - 10:06 PM]
   | Sept 30, 2024 - How to pick between Kimball, One Big Table, and Relational Modeling as a data engineer [12:17 PM - 2:02 PM]
+  | Oct 2, 2024   - SQL Interview Questions For Data Scientists And Data Engineers - Tips For Practicing SQL Interviews [9:59 AM - 10:30 AM]
 ```
 
 # V. Books
