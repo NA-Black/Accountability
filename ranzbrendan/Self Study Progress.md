@@ -293,6 +293,7 @@
   | Sept 25, 2024 - DE Zoomcamp Project [9:36 AM - 11:14 PM]
   | Oct 1, 2024   - DE Zoomcamp Project [9:55 AM - 12:46 PM] [6:37 PM - 10:12 PM]
   | Oct 2, 2024   - DE Zoomcamp Project [10:42 AM - 11:53 AM] [6:49 PM - 11:23 PM]
+  | Oct 3, 2024   - DE Zoomcamp Project [10:15 AM - 12:12 PM]
 ```
 
 # IX. Data Engineering in Python
@@ -333,4 +334,9 @@
   | Sept 30, 2024 - SQL Server for Database Administrators [4:20 PM - 5:13 PM]
   | Oct 1, 2024   - CI/CD for Machine Learning: Introduction to Continuous Integration/Continuous Delivery and YAML [3:25 PM - 4:01 PM]
   | Oct 2, 2024   - CI/CD for Machine Learning: GitHub Actions [5:31 PM - 6:23 PM]
+```
+
+# XIII. CS50 SQL
+```
+  | Oct 3, 2024 - CS50 SQL - Lecture 0 - Querying [5:46 PM - 7:50 PM]
 ```
