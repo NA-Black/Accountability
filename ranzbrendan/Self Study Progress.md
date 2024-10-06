@@ -334,6 +334,7 @@
   | Sept 30, 2024 - SQL Server for Database Administrators [4:20 PM - 5:13 PM]
   | Oct 1, 2024   - CI/CD for Machine Learning: Introduction to Continuous Integration/Continuous Delivery and YAML [3:25 PM - 4:01 PM]
   | Oct 2, 2024   - CI/CD for Machine Learning: GitHub Actions [5:31 PM - 6:23 PM]
+  | Oct 6, 2024   - SQL Server for Database Administrators : Transactions and Error Handling in SQL Server [10:41 PM - 10:59 PM[
 ```
 
 # XIII. CS50 SQL
