@@ -167,6 +167,7 @@
   | Sept 30, 2024 - How to pick between Kimball, One Big Table, and Relational Modeling as a data engineer [12:17 PM - 2:02 PM]
   | Oct 2, 2024   - SQL Interview Questions For Data Scientists And Data Engineers - Tips For Practicing SQL Interviews [9:59 AM - 10:30 AM]
   | Oct 8, 2024   - #1 | Introduction & History of Snowflake | Snowflake Tutorial for Beginners [10:20 AM - 10:49 PM]
+                  - #2 | Snowflake Free Trial Edition & Self Registration | Snowflake Tutorial for Beginners [7:54 PM - 
 ```
 
 # V. Books
