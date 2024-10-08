@@ -335,7 +335,13 @@
   | Sept 23, 2024 - 3 Easy [11:06 PM - 11:33 PM]
 ```
 
-# XII. DataCamp Other Skills
+# XII. HackerRank
+```
+  | Oct 8, 2024 - [8:56 PM - 9:32 PM[
+                - 1 Basic Select 
+```
+
+# XIII. DataCamp Other Skills
 ```
   | Sept 26, 2024 - SQL Server for Database Administrators [9:45 AM - 10:09 AM]
   | Sept 30, 2024 - SQL Server for Database Administrators [4:20 PM - 5:13 PM]
@@ -345,7 +351,7 @@
   | Oct 8, 2024   - Introduction to Data Modeling in Snowflake : Fundamentals of Data Modeling [5:06 PM - 5:37 PM]
 ```
 
-# XIII. CS50 SQL
+# XIV. CS50 SQL
 ```
   | Oct 3, 2024 - CS50 SQL - Lecture 0 - Querying [5:46 PM - 7:50 PM]
   | Oct 7, 2024 - Week 0 Probsets [7:20 PM - 9:30 PM]
