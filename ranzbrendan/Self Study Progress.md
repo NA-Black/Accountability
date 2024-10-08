@@ -294,6 +294,10 @@
   | Oct 1, 2024   - DE Zoomcamp Project [9:55 AM - 12:46 PM] [6:37 PM - 10:12 PM]
   | Oct 2, 2024   - DE Zoomcamp Project [10:42 AM - 11:53 AM] [6:49 PM - 11:23 PM]
   | Oct 3, 2024   - DE Zoomcamp Project [10:15 AM - 12:12 PM]
+  | Oct 4, 2024   - DE Zoomcamp Project
+  | Oct 5, 2024   - DE Zoomcamp Project
+  | Oct 6, 2024   - DE Zoomcamp Project
+  | Oct 7, 2024   - DE Zoomcamp Project
 ```
 
 # IX. Data Engineering in Python
@@ -340,4 +344,5 @@
 # XIII. CS50 SQL
 ```
   | Oct 3, 2024 - CS50 SQL - Lecture 0 - Querying [5:46 PM - 7:50 PM]
+  | Oct 7, 2024 - Week 0 Probsets [7:20 PM - 9:30 PM]
 ```
