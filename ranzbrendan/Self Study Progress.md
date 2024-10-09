@@ -337,8 +337,11 @@
 
 # XII. HackerRank
 ```
-  | Oct 8, 2024 - [8:56 PM - 9:32 PM[
-                - 1 Basic Select 
+  | Oct 8, 2024 - [8:56 PM - 9:32 PM]
+                - 6 questions
+  | Oct 9, 2024 - [10:24 AM -11:37 AM]
+                - 3 Medium questions
+                - 7 Easy questions
 ```
 
 # XIII. DataCamp Other Skills
