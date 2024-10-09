@@ -7,3 +7,8 @@
 `use warehouse COMPUTE_WH;`  
 `use database demo_db;`  
 `use schema public;`  
+
+### 1NF Functions
+`TRIM`
+`LATERAL` & `FLATTEN`
+`SPLIT`
