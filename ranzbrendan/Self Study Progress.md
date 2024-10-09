@@ -169,6 +169,7 @@
   | Oct 8, 2024   - #1 | Introduction & History of Snowflake | Snowflake Tutorial for Beginners [10:20 AM - 10:49 PM]
                   - #2 | Snowflake Free Trial Edition & Self Registration | Snowflake Tutorial for Beginners [7:54 PM - 8:27 PM]
                   - #3 | Snowflake Architecture | Snowflake Tutorial for Beginners [8:31 PM - 8:46 PM]
+  | Oct 9, 2024   - #3 | Snowflake Architecture | Snowflake Tutorial for Beginners [12:05 PM - 1:16 PM]
 ```
 
 # V. Books
