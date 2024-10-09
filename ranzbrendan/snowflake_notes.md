@@ -9,7 +9,7 @@
 `use schema public;`  
 
 ### 1NF Functions
-LATERAL, FLATTEN & SPLIT  
-`LATERAL FLATTEN(INPUT => SPLIT(table.column, ',')) alias;`
-TRIM  
+- LATERAL, FLATTEN & SPLIT  
+`LATERAL FLATTEN(INPUT => SPLIT(table.column, ',')) alias;`  
+- TRIM  
 `TRIM(alias.value)`
