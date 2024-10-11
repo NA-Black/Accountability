@@ -343,6 +343,9 @@
   | Oct 9, 2024 - [10:24 AM -11:37 AM]
                 - 3 Medium questions
                 - 7 Easy questions
+  | Oct 10, 2024 - [10:26 AM - 11:44 PM]
+                 - 3 Easy
+                 - 3 Medium
 ```
 
 # XIII. DataCamp Other Skills
