@@ -358,6 +358,7 @@
   | Oct 8, 2024   - Introduction to Data Modeling in Snowflake : Fundamentals of Data Modeling [5:06 PM - 5:37 PM]
   | Oct 9, 2024   - Introduction to Data Modeling in Snowflake : Data Relationships and Normalization [1:24 PM - 2:43 PM]
   | Oct 10, 2024  - Introduction to Data Modelling in SNowflake : Entity–relationship model [8:48 PM - 10:34 PM]
+  | Oct 13, 2024  - Introduction to Data Modeling in Snowflake : Snowflake Components [11:25 AM - 12:14 PM]
 ```
 
 # XIV. CS50 SQL
