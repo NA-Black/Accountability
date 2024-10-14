@@ -170,6 +170,7 @@
                   - #2 | Snowflake Free Trial Edition & Self Registration | Snowflake Tutorial for Beginners [7:54 PM - 8:27 PM]
                   - #3 | Snowflake Architecture | Snowflake Tutorial for Beginners [8:31 PM - 8:46 PM]
   | Oct 9, 2024   - #3 | Snowflake Architecture | Snowflake Tutorial for Beginners [12:05 PM - 1:16 PM]
+  | Oct 14, 2024  - #4 | Snowflake Classic Legacy WebUI | Snowflake Tutorial [6:38 PM - 7:03 PM]
 ```
 
 # V. Books
