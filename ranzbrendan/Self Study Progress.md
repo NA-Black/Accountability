@@ -303,6 +303,7 @@
   | Oct 5, 2024   - DE Zoomcamp Project
   | Oct 6, 2024   - DE Zoomcamp Project
   | Oct 7, 2024   - DE Zoomcamp Project
+  | Oct 16, 2024  - Data Ingestion From APIs to Warehouses - Adrian Brudaru [3:03 PM - 11:08 PM]
 ```
 
 # IX. Data Engineering in Python
