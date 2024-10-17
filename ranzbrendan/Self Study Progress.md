@@ -304,7 +304,8 @@
   | Oct 6, 2024   - DE Zoomcamp Project
   | Oct 7, 2024   - DE Zoomcamp Project
   | Oct 16, 2024  - Data Ingestion From APIs to Warehouses - Adrian Brudaru [3:03 PM - 11:08 PM]
-  | Oct 17, 2024  - DE Zoomcamp 2.2.1 - Introduction to Workflow Orchestration [1:30 PM - 
+  | Oct 17, 2024  - DE Zoomcamp 2.2.1 - Introduction to Workflow Orchestration [1:30 PM - 2:07 PM]
+                  - DE Zoomcamp 2.3.1 - Setup Airflow Environment with Docker-Compose [7:41 PM - 9:14 PM]
 ```
 
 # IX. Data Engineering in Python
@@ -369,4 +370,5 @@
   | Oct 3, 2024 - CS50 SQL - Lecture 0 - Querying [5:46 PM - 7:50 PM]
   | Oct 7, 2024 - Week 0 Probsets [7:20 PM - 9:30 PM]
   | Oct 14, 2024 - Week 1 Probsets [1:19 PM - 2:42 PM]
+  | Oct 17, 2024 - Week 1 Probsets [7:15 PM - 
 ```
