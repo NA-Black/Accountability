@@ -370,5 +370,5 @@
   | Oct 3, 2024 - CS50 SQL - Lecture 0 - Querying [5:46 PM - 7:50 PM]
   | Oct 7, 2024 - Week 0 Probsets [7:20 PM - 9:30 PM]
   | Oct 14, 2024 - Week 1 Probsets [1:19 PM - 2:42 PM]
-  | Oct 17, 2024 - Week 1 Probsets [7:15 PM - 
+  | Oct 17, 2024 - Week 1 Probsets [7:15 PM - 11:04 PM]
 ```
