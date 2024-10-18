@@ -365,6 +365,7 @@
   | Oct 10, 2024  - Introduction to Data Modelling in SNowflake : Entity–relationship model [8:48 PM - 10:34 PM]
   | Oct 13, 2024  - Introduction to Data Modeling in Snowflake : Snowflake Components [11:25 AM - 12:14 PM]
   | Oct 17, 2024  - Introduction to Apache Airflow in Python : Introduction to Apache Airflow [11:30 PM - 12:03 PM]
+  | Oct 18, 2024  - Introduction to Apache Airflow in Python : Introduction to Apache Airflow [10:48 PM - 11:06 PM]
 ```
 
 # XIV. CS50 SQL
