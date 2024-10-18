@@ -171,6 +171,7 @@
                   - #3 | Snowflake Architecture | Snowflake Tutorial for Beginners [8:31 PM - 8:46 PM]
   | Oct 9, 2024   - #3 | Snowflake Architecture | Snowflake Tutorial for Beginners [12:05 PM - 1:16 PM]
   | Oct 14, 2024  - #4 | Snowflake Classic Legacy WebUI | Snowflake Tutorial [6:38 PM - 7:03 PM]
+  | Oct 18, 2024  - Scalable Data Ingestion Architecture Using Airflow and Spark | Komodo Health [1:57 PM - 4:59 PM]
 ```
 
 # V. Books
