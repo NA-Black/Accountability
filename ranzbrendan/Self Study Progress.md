@@ -375,4 +375,5 @@
   | Oct 14, 2024 - Week 1 Probsets [1:19 PM - 2:42 PM]
   | Oct 17, 2024 - Week 1 Probsets [7:15 PM - 11:04 PM]
   | Oct 18, 2024 - Week 1 Probsets [11:07 PM - 12:23 PM]
+  | Oct 19, 2024 - Week 2 Lecture - Designing [11:12 AM - 8:38 PM]
 ```
