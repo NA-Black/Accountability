@@ -377,7 +377,7 @@
   | Oct 18, 2024 - Week 1 Probsets [11:07 PM - 12:23 PM]
   | Oct 19, 2024 - Week 2 Lecture - Designing [11:12 AM - 8:38 PM]
 ```
-# XV. Java Programming - [MOOC](https://java-programming.mooc.fi/)
+# XV. Java Programming 1 - [MOOC](https://java-programming.mooc.fi/)
 ```
-  | Oct 19, 2024 - 
+  | Oct 21, 2024 - Part 1 [6:12 PM - 7:13 PM]
 ```
