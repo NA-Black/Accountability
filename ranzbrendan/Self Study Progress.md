@@ -335,6 +335,7 @@
   | Oct 21, 2024  - Week 3 Shorts [7:27 PM - 7:50 PM]
   | Oct 22, 2024  - Week 3 Shorts [4:59 PM - 5:06 PM]
                   - Problem Set 3 [5:21 PM - 6:39 PM]
+                  - Problem Set 3 [9:39 PM - 11:57 PM]
 ```
 
 # XI. LeetCode
