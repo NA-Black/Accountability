@@ -384,4 +384,5 @@
 # XV. Java Programming 1 - [MOOC](https://java-programming.mooc.fi/)
 ```
   | Oct 21, 2024 - Part 1 [6:12 PM - 7:13 PM]
+  | Oct 23, 2024 - Part 1 [1:39 PM - 4:11 PM]
 ```
