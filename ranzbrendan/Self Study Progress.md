@@ -337,6 +337,7 @@
                   - Problem Set 3 [5:21 PM - 6:39 PM]
                   - Problem Set 3 [9:39 PM - 11:57 PM]
   | Oct 23, 2024  - Lecture 4 [4:29 PM - 7:25 PM]
+  | Oct 24, 2024  - Week 4 Shorts [10:10 AM - 10:31 AM]
 ```
 
 # XI. LeetCode
