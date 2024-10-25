@@ -338,7 +338,7 @@
                   - Problem Set 3 [9:39 PM - 11:57 PM]
   | Oct 23, 2024  - Lecture 4 [4:29 PM - 7:25 PM]
   | Oct 24, 2024  - Week 4 Shorts [10:10 AM - 10:31 AM]
-  | Oct 25, 2024  - Lecture 5 [5:14 PM - 
+  | Oct 25, 2024  - Lecture 8 : Object Oriented Programming [6:47 PM - 8:15 PM]
 ```
 
 # XI. LeetCode
@@ -393,4 +393,9 @@
   | Oct 24, 2024 - Part 2 [1:14 PM - 3:34 PM]
                  - Part 3 [3:35 PM - 10:22 PM]
   | Oct 24, 2024 - Part 3 [2:42 PM - 4:19 PM]
+```
+
+# XVI. Neetcode 
+```
+
 ```
