@@ -338,6 +338,7 @@
                   - Problem Set 3 [9:39 PM - 11:57 PM]
   | Oct 23, 2024  - Lecture 4 [4:29 PM - 7:25 PM]
   | Oct 24, 2024  - Week 4 Shorts [10:10 AM - 10:31 AM]
+  | Oct 25, 2024  - Lecture 5 [5:14 PM - 
 ```
 
 # XI. LeetCode
@@ -357,6 +358,7 @@
   | Oct 10, 2024 - [10:26 AM - 11:44 PM]
                  - 3 Easy
                  - 3 Medium
+  | Oct 25, 2024 - Algorithms [5:16 PM - 5:20]
 ```
 
 # XIII. DataCamp Other Skills
