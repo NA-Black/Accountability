@@ -338,7 +338,7 @@
                   - Problem Set 3 [9:39 PM - 11:57 PM]
   | Oct 23, 2024  - Lecture 4 [4:29 PM - 7:25 PM]
   | Oct 24, 2024  - Week 4 Shorts [10:10 AM - 10:31 AM]
-  | Oct 25, 2024  - Lecture 8 : Object Oriented Programming [6:47 PM - 8:15 PM]
+  | Oct 25, 2024  - Lecture 8 : Object Oriented Programming [6:47 PM - 8:15 PM] [9:00 PM - 9:33 PM]
 ```
 
 # XI. LeetCode
@@ -397,5 +397,5 @@
 
 # XVI. Neetcode 
 ```
-
+  | Blind 75 : Arrays & Hashing [9:33 PM - 11:02 PM]
 ```
