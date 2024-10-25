@@ -387,6 +387,7 @@
 ```
   | Oct 21, 2024 - Part 1 [6:12 PM - 7:13 PM]
   | Oct 23, 2024 - Part 1 [1:39 PM - 4:11 PM]
-  | Oct 23, 2024 - Part 2 [7:35 PM - 11:23 PM]
+                 - Part 2 [7:35 PM - 11:23 PM]
   | Oct 24, 2024 - Part 2 [1:14 PM - 3:34 PM]
+                 - Part 3 [3:35 PM - 10:22 PM]
 ```
