@@ -397,6 +397,7 @@
 
 # XVI. Neetcode 
 ```
-  | Blind 75 : EASY Arrays & Hashing [9:33 PM - 11:02 PM]
-  | Blind 75 : EASY Two Pointers [8:54 PM - 9:50 PM]
+  | Oct 25, 2024 - Blind 75 : EASY Arrays & Hashing [9:33 PM - 11:02 PM]
+  | Oct 26, 2024 - Blind 75 : EASY Two Pointers [8:54 PM - 9:50 PM]
+                 - Blind 75 : EASY Sliding Window [12:50 PM - 1:00 PM]
 ```
