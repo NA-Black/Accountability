@@ -400,4 +400,7 @@
   | Oct 25, 2024 - Blind 75 : EASY Arrays & Hashing [9:33 PM - 11:02 PM]
   | Oct 26, 2024 - Blind 75 : EASY Two Pointers [8:54 PM - 9:50 PM]
                  - Blind 75 : EASY Sliding Window [12:50 PM - 1:00 PM]
+                 - Blind 75 : EASY Stack [6:57 PM - 7:17 PM]
+                 - Blind 75 : EASY Linked List [7:21 PM - 8:57 PM]
+        
 ```
