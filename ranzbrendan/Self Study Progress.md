@@ -402,5 +402,6 @@
                  - Blind 75 : EASY Sliding Window [12:50 PM - 1:00 PM]
                  - Blind 75 : EASY Stack [6:57 PM - 7:17 PM]
                  - Blind 75 : EASY Linked List [7:21 PM - 8:57 PM]
-        
+  | Oct 27, 2024 - Blind 75 : EASY Linked List
+                 - Blind 75 : EASY Trees [..] [8:00 PM - 9:04 PM]
 ```
