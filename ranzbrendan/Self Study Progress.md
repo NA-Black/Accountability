@@ -408,5 +408,5 @@
                  - Blind 75 : EASY Interavls [2:08 PM - 3:30 PM]
                  - Blind 75 : EASY Bit Manipulation [5:51 PM - 12:00 AM]
   | Oct 29, 2024 - Blind 75 : EASY Bit Manipulation [12:00 AM - 12:25 AM]
-                 - Blind 75 : MEDIUM Arrays & Hashing [11:14 PM - 3:19 PM]
+                 - Blind 75 : MEDIUM Arrays & Hashing [11:14 PM - 3:19 PM] [4:39 PM - 6:41 PM]
 ```
