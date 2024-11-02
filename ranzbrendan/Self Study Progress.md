@@ -339,6 +339,7 @@
   | Oct 23, 2024  - Lecture 4 [4:29 PM - 7:25 PM]
   | Oct 24, 2024  - Week 4 Shorts [10:10 AM - 10:31 AM]
   | Oct 25, 2024  - Lecture 8 : Object Oriented Programming [6:47 PM - 8:15 PM] [9:00 PM - 9:33 PM]
+  | Nov 2, 2024   - Problem Set 4 [1:00 PM - 1:32 PM] [2:21 PM - 3:52 PM]
 ```
 
 # XI. LeetCode
