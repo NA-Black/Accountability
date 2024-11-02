@@ -394,7 +394,7 @@
   | Oct 24, 2024 - Part 2 [1:14 PM - 3:34 PM]
                  - Part 3 [3:35 PM - 10:22 PM]
   | Oct 24, 2024 - Part 3 [2:42 PM - 4:19 PM]
-  | Nov 02, 2024 - Part 4 [5:48 PM - 7:10 PM]
+  | Nov 02, 2024 - Part 4 [5:48 PM - 7:10 PM] [8:04 PM - 9:38 PM]
 ```
 
 # XVI. Neetcode 
