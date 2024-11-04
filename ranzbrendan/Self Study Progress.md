@@ -341,6 +341,7 @@
   | Oct 25, 2024  - Lecture 8 : Object Oriented Programming [6:47 PM - 8:15 PM] [9:00 PM - 9:33 PM]
   | Nov 02, 2024  - Problem Set 4 [1:00 PM - 1:32 PM] [2:21 PM - 3:52 PM]
   | Nov 03, 2024  - Lecture 5 [8:34 PM - 8:55 PM]
+  | Nov 04, 2024  - Lecture 5 [10:36 AM - 11:30 AM]
 ```
 
 # XI. LeetCode
