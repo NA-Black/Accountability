@@ -378,6 +378,7 @@
   | Oct 13, 2024  - Introduction to Data Modeling in Snowflake : Snowflake Components [11:25 AM - 12:14 PM]
   | Oct 17, 2024  - Introduction to Apache Airflow in Python : Introduction to Apache Airflow [11:30 PM - 12:03 PM]
   | Oct 18, 2024  - Introduction to Apache Airflow in Python : Introduction to Apache Airflow [10:48 PM - 11:06 PM]
+  | Nov 04, 2024  - AWS Cloud Practitioner (CLF-C02) : Introduction to AWS [5:46 PM - 6:15 PM]
 ```
 
 # XIV. CS50 SQL
