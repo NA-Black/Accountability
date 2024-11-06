@@ -421,3 +421,8 @@
   | Oct 30, 2024 - Blind 75 : MEDIUM Arrays & Hashing [11:55 AM - 12:06 PM]
                  - Quizzes [12:10 PM - 3:09 PM]
 ```
+
+# XVII. MIT 6.006 Introduction to Algorithms, Spring 2020
+```
+  | Nov 06, 2024 - 1. Algorithms and Computation [11:00 AM - 1:27 PM]
+```
