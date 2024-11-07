@@ -426,4 +426,5 @@
 # XVII. MIT 6.006 Introduction to Algorithms, Spring 2020
 ```
   | Nov 06, 2024 - 1. Algorithms and Computation [11:00 AM - 1:27 PM]
+  | Nov 07, 2024 - 2. Data Structures and Dynamic Arrays [12:00 AM - 1:00 AM] [11:09 AM - 11:39 AM]
 ```
