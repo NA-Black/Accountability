@@ -353,6 +353,8 @@
   | Sept 22, 2024 - 3 Easy [10:29 PM - 10:56 PM]
                   - 2 Medium [10:57 PM - 11:39 PM]
   | Sept 23, 2024 - 3 Easy [11:06 PM - 11:33 PM]
+  | Nov 11, 2024  - 2 EASY Arrays [12:11 AM -11:40 AM]
+                   
 ```
 
 # XII. HackerRank
