@@ -429,4 +429,5 @@
 ```
   | Nov 06, 2024 - 1. Algorithms and Computation [11:00 AM - 1:27 PM]
   | Nov 07, 2024 - 2. Data Structures and Dynamic Arrays [12:00 AM - 1:00 AM] [11:09 AM - 11:39 AM]
+  | Nov 11, 2024 - Introduction to Algorithms - Problem Session 1: Asymptotic Behavior of Functions and Double-ended...
 ```
