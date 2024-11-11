@@ -1,4 +1,4 @@
-[I. CS50](#i-cs50) <br>
+ [I. CS50](#i-cs50) <br>
 [II. DataCamp - Associate DA SQL](#ii-datacamp---associate-data-analyst-in-sql-track) <br>
 [III. DataCamp - DA Python](#iii-datacamp---data-analyst-with-python) <br>
 [IV. Youtube](#iv-youtube) <br>
@@ -407,6 +407,7 @@
   | Nov 03, 2024 - Part 4 [9:22 AM - 10:42 AM] [1:33 PM - 1:48 PM] [6:25 PM - 7:50 PM]
   | Nov 04, 2024 - Part 4 [12:45 PM - 1:31 PM]
   | Nov 04, 2024 - Part 4 [10:37 AM - 11:41 PM]
+  | Nov 11, 2024 - Part 5 [12:51 PM - 7:28 PM]
 ```
 
 # XVI. Neetcode 
