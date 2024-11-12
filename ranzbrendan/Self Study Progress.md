@@ -408,6 +408,7 @@
   | Nov 04, 2024 - Part 4 [12:45 PM - 1:31 PM]
   | Nov 04, 2024 - Part 4 [10:37 AM - 11:41 PM]
   | Nov 11, 2024 - Part 5 [12:51 PM - 7:28 PM]
+  | Nov 12, 2024 - Part 5 [10:42 AM - 12:09 PM]
 ```
 
 # XVI. Neetcode 
