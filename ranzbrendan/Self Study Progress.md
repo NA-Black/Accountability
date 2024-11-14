@@ -1,4 +1,4 @@
- [I. CS50](#i-cs50) <br>
+[I. CS50](#i-cs50) <br>
 [II. DataCamp - Associate DA SQL](#ii-datacamp---associate-data-analyst-in-sql-track) <br>
 [III. DataCamp - DA Python](#iii-datacamp---data-analyst-with-python) <br>
 [IV. Youtube](#iv-youtube) <br>
@@ -385,7 +385,7 @@
   | Oct 17, 2024  - Introduction to Apache Airflow in Python : Introduction to Apache Airflow [11:30 PM - 12:03 PM]
   | Oct 18, 2024  - Introduction to Apache Airflow in Python : Introduction to Apache Airflow [10:48 PM - 11:06 PM]
   | Nov 04, 2024  - AWS Cloud Practitioner (CLF-C02) : Introduction to AWS [5:46 PM - 6:15 PM]
-  | Nov 14, 2024  - Introduction to Apache Airflow in Python : Implementing Airflow DAGs [
+  | Nov 14, 2024  - Introduction to Apache Airflow in Python : Implementing Airflow DAGs [4:02 PM - 5:04 PM]
 ```
 
 # XIV. CS50 SQL
