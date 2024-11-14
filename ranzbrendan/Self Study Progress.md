@@ -172,6 +172,7 @@
   | Oct 9, 2024   - #3 | Snowflake Architecture | Snowflake Tutorial for Beginners [12:05 PM - 1:16 PM]
   | Oct 14, 2024  - #4 | Snowflake Classic Legacy WebUI | Snowflake Tutorial [6:38 PM - 7:03 PM]
   | Oct 18, 2024  - Scalable Data Ingestion Architecture Using Airflow and Spark | Komodo Health [1:57 PM - 4:59 PM]
+  | Nov 14, 2024  - Airflow Tutorial for Beginners - Full Course in 2 Hours 2022 [1:08 PM - 2:48 PM]
 ```
 
 # V. Books
@@ -384,6 +385,7 @@
   | Oct 17, 2024  - Introduction to Apache Airflow in Python : Introduction to Apache Airflow [11:30 PM - 12:03 PM]
   | Oct 18, 2024  - Introduction to Apache Airflow in Python : Introduction to Apache Airflow [10:48 PM - 11:06 PM]
   | Nov 04, 2024  - AWS Cloud Practitioner (CLF-C02) : Introduction to AWS [5:46 PM - 6:15 PM]
+  | Nov 14, 2024  - Introduction to Apache Airflow in Python : Implementing Airflow DAGs [
 ```
 
 # XIV. CS50 SQL
