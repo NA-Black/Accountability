@@ -347,6 +347,9 @@
   | Nov 06, 2024  - Problem Set 5 [2:05 PM - 2:44 PM]
   | Nov 07, 2024  - Problem Set 5 [12:40 PM - 1:53 PM]
                   - Lecture 6 [1:53 PM - 5:30 PM]
+  | Nov 16, 2024  - Lecture 7 [5:48 PM - 8:33]
+                  - Week 6 Shorts [8:34 PM - 8:54 PM]
+                  - Problem Set 6 [8:54 PM - 11:21 PM]
 ```
 
 # XI. LeetCode
