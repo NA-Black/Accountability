@@ -393,6 +393,7 @@
   | Nov 04, 2024  - AWS Cloud Practitioner (CLF-C02) : Introduction to AWS [5:46 PM - 6:15 PM]
   | Nov 14, 2024  - Introduction to Apache Airflow in Python : Implementing Airflow DAGs [4:02 PM - 5:04 PM]
   | Nov 16, 2024  - Introduction to Apache Airflow in Python : Maintaining and monitoring Airflow workflows [11:24 PM - 12:05 AM]
+  | Nov 17, 2024  - Introduction to Git : Introduction to Git [11:37 PM - 1:28 AM]
 ```
 
 # XIV. CS50 SQL
