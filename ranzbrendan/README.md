@@ -174,7 +174,7 @@
   | Oct 18, 2024  - Scalable Data Ingestion Architecture Using Airflow and Spark | Komodo Health [1:57 PM - 4:59 PM]
   | Nov 14, 2024  - Airflow Tutorial for Beginners - Full Course in 2 Hours 2022 [1:08 PM - 2:48 PM]
   | Nov 18, 2024  - ASP.NET Core Crash Course - C# App in One Hour [10:24 AM - 11:46 PM]
-  | Nov 19, 2024  - Effective Pandas I Matt Harrison I PyData Salt Lake City Meetup [4:36 PM - 
+  | Nov 19, 2024  - Effective Pandas I Matt Harrison I PyData Salt Lake City Meetup [5:22 PM - 
 ```
 
 # V. Books
