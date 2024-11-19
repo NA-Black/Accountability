@@ -1,0 +1,21 @@
+1. Pandas make computation in Python faster
+2. Pandas dont use Python data types
+3. When reading a file using pandas, it converts ints to int64.
+4. int64 does not support missing values so if there are, it becomes float64.
+5. can get dates if u add parse_dates()
+6. converts into object if pandas does not know how to interpret some values as a number
+7. Count = number of non missing values
+8. pd.astype({'COLUMN': 'DATA_TYPE'})
+9. pd.describe()
+10. pd.value_counts(dropna=False)
+11. pd.query()
+12. pd.select_dtypes()
+13. pd.memory_usage(deep=True)
+14. pd.sum()
+15. np.iinfo(np.int8)
+16. np.finfo(np.float16)
+17. CARDINALITY = Describes amount of unique values
+18. EXPLORATORY DATA ANALYSIS
+19. pd.groupby()
+20. pd.nunique()
+21. pd.unique()
