@@ -31,3 +31,4 @@
 31. df.legend()
 32. df.gt() -> boolean - greater than
 33. df.pipe()
+34. df['ITEM_CODE'] = pd.to_numeric(df['ITEM_CODE'], errors='coerce').fillna(0).astype(int)
