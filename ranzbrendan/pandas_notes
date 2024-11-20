@@ -23,8 +23,8 @@
 23. df.<column>.extract(<regex>)
 24. pd.to_datetime(df.<column>).dt.tz_localize('America/New_York')
 25. Chaining is more efficient, because operations return new objects.
-26. df.groupby() - numeric_only values
-27. df.mean()
+26. df.groupby() 
+27. df.mean() - numeric_only values
 28. df.agg()
 29. df.unstack()
 30. df.plot() - requires matplotlib
