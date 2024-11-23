@@ -396,6 +396,7 @@
   | Nov 14, 2024  - Introduction to Apache Airflow in Python : Implementing Airflow DAGs [4:02 PM - 5:04 PM]
   | Nov 16, 2024  - Introduction to Apache Airflow in Python : Maintaining and monitoring Airflow workflows [11:24 PM - 12:05 AM]
   | Nov 17, 2024  - Introduction to Git : Introduction to Git [11:37 PM - 1:28 AM]
+  | Nov 13, 2024  - Introduction to Apache Airflow in Python : Building production pipelines in Airflow [10:50 PM - 11:57 PM]
 ```
 
 # XIV. CS50 SQL
