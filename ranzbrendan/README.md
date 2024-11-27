@@ -355,7 +355,7 @@
   | Nov 17, 2024  - Lecture 7 [11:55 PM - 2:41 PM]
                   - Week 7 Shorts [4:00 PM - 4:36 PM]
                   - Problem Set 7 [4:36 PM - 7:05 PM] [8:43 PM - 9:34 PM]
-  | Nov 25, 2024  - Lecture 8 [11:41 AM - 
+  | Nov 27, 2024  - Lecture 8 [6:25 PM - 7:13 PM]
 ```
 
 # XI. LeetCode
