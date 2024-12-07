@@ -357,6 +357,9 @@
                   - Problem Set 7 [4:36 PM - 7:05 PM] [8:43 PM - 9:34 PM]
   | Nov 27, 2024  - Lecture 8 [6:25 PM - 7:13 PM] [11:07 PM - 11:53 PM]
   | Nov 28, 2024  - Lecture 8 [11:35 AM - 12:21 PM] [4:53 PM - 5:51 PM]
+  | Dec 07, 2024  - Lecture 8 [2:50 PM - 3:40 PM]
+                  - Week 8 Shorts [10:10 PM - 10:35 PM]
+                  - Problem Set 8 [10:35 PM - 11:49 PM]
 ```
 
 # XI. LeetCode
