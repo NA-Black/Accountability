@@ -360,6 +360,7 @@
   | Dec 07, 2024  - Lecture 8 [2:50 PM - 3:40 PM]
                   - Week 8 Shorts [10:10 PM - 10:35 PM]
                   - Problem Set 8 [10:35 PM - 11:49 PM]
+  | Dec 08, 2024  - Problem Set 8 [1:01 PM - 2:03 PM]
 ```
 
 # XI. LeetCode
